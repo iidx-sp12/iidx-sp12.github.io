@@ -1,0 +1,17 @@
+[
+  { "name": "V",
+    "difficulty": "ANOTHER",
+    "normal": "D",
+    "hard": "D",
+    "version": "5th",
+    "bpm": "150",
+    "notes": 1519 },
+
+  { "name": "Colors(radio edit)",
+    "difficulty": "ANOTHER",
+    "normal": "E",
+    "hard": "C",
+    "version": "6th",
+    "bpm": "150",
+    "notes": 1258 }
+]
