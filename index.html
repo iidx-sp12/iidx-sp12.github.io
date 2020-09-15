@@ -10,7 +10,13 @@
       $.getJSON("songs.json", function(data) {
         var tb = $(".tbl tbody"), len = data.length;
         for(let i = 0; i < len; i++) {
-          tb.append("<tr><td>" + "a" + "</td><td>" + "b" + "</td></tr>");
+          tb.append("<tr>");
+          tb.append("<td>" + data[i].name + "</td>");
+          tb.append("<td>" + data[i].normal + "</td>");
+          tb.append("<td>" + data[i].hard + "</td>");
+          tb.append("<td>" + data[i].bpm + "</td>");
+          tb.append("<td>" + data[i].notes + "</td>");
+          tb.append("</tr>");
         }
       });
     });
@@ -22,6 +28,9 @@
     <thead>
       <tr>
         <th>曲名</th>
+        <th>ノマゲ</th>
+        <th>HARD</th>
+        <th>BPM</th>
         <th>ノーツ数</th>
       </tr>
     </thead>
