@@ -9,7 +9,7 @@
   <script type="text/javascript">
     $(function() {
       $.getJSON("songs.json", function(data) {
-        var tb = $(".tbl tbody"), len = data.length;
+        var tb = $("#tbl tbody"), len = data.length;
         for(let i = 0; i < len; i++) {
           tb.append("<tr>");
           tb.append("<td>" + data[i].name + "</td>");
@@ -21,13 +21,13 @@
         }
       });
 
-      $('.tbl').tablesorter();
+      $('#tbl').tablesorter();
     });
   </script>
 </head>
 
 <body>
-  <table border="1" class="tbl">
+  <table border="1" id="tbl" class="tablesorter">
     <thead>
       <tr>
         <th>曲名</th>
