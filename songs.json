@@ -1,17 +1,41 @@
 [
   { "name": "V",
     "difficulty": "ANOTHER",
-    "normal": "D",
-    "hard": "D",
+    "normal": "地力D",
+    "hard": "地力D",
     "version": "5th",
     "bpm": "150",
     "notes": 1519 },
 
   { "name": "Colors(radio edit)",
     "difficulty": "ANOTHER",
-    "normal": "E",
-    "hard": "C",
+    "normal": "地力E",
+    "hard": "地力C",
     "version": "6th",
     "bpm": "150",
-    "notes": 1258 }
+    "notes": 1258 },
+
+  { "name": "A",
+    "difficulty": "ANOTHER",
+    "normal": "地力F",
+    "hard": "地力F",
+    "version": "7th",
+    "bpm": "93～191",
+    "notes": 1260 },
+
+  { "name": "PLEASE DON'T GO",
+    "difficulty": "ANOTHER",
+    "normal": "個人差D",
+    "hard": "個人差D",
+    "version": "8th",
+    "bpm": "135",
+    "notes": 1251 },
+
+  { "name": "桜",
+    "difficulty": "ANOTHER",
+    "normal": "個人差E",
+    "hard": "個人差D",
+    "version": "8th",
+    "bpm": "13～320",
+    "notes": 1123 }
 ]
