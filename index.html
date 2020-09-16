@@ -9,6 +9,8 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.0/css/theme.default.min.css">
   <script type="text/javascript">
     $(function() {
+      $("#tbl").tablesorter();
+      
       $.getJSON("songs.json", function(data) {
         var tb = $("#tbl tbody"), len = data.length;
         for(let i = 0; i < len; i++) {
@@ -20,9 +22,8 @@
           tb.append("<td>" + data[i].notes + "</td>");
           tb.append("</tr>");
         }
+        $("#tbl").trigger("update");
       });
-
-      $("#tbl").tablesorter();
     });
   </script>
 </head>
