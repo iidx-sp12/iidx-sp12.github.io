@@ -12,15 +12,18 @@
       $("#tbl").tablesorter();
       
       $.getJSON("songs.json", function(data) {
-        var tb = $("#tbl tbody"), len = data.length;
+        var tb = $("#tbl tbody");
+        var len = data.length;
         for(let i = 0; i < len; i++) {
-          tb.append("<tr>");
-          tb.append("<td>" + data[i].name + "</td>");
-          tb.append("<td>" + data[i].normal + "</td>");
-          tb.append("<td>" + data[i].hard + "</td>");
-          tb.append("<td>" + data[i].bpm + "</td>");
-          tb.append("<td>" + data[i].notes + "</td>");
-          tb.append("</tr>");
+          let row = "";
+          row += "<tr>";
+          row += "<td>" + data[i].name + "</td>";
+          row += "<td>" + data[i].normal + "</td>";
+          row += "<td>" + data[i].hard + "</td>";
+          row += "<td>" + data[i].bpm + "</td>";
+          row += "<td>" + data[i].notes + "</td>";
+          row += "</tr>";
+          tb.append(row);
         }
         $("#tbl").trigger("update");
       });
