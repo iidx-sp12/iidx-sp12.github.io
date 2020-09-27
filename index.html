@@ -18,8 +18,10 @@
           let row = "";
           row += "<tr>";
           row += "<td>" + data[i].name + "</td>";
+          row += "<td>" + data[i].difficulty + "</td>";
           row += "<td>" + data[i].normal + "</td>";
           row += "<td>" + data[i].hard + "</td>";
+          row += "<td>" + data[i].version + "</td>";
           row += "<td>" + data[i].bpm + "</td>";
           row += "<td>" + data[i].notes + "</td>";
           row += "</tr>";
@@ -36,8 +38,10 @@
     <thead>
       <tr>
         <th>曲名</th>
+        <th>難易度</th>
         <th>ノマゲ</th>
         <th>HARD</th>
+        <th>Ver.</th>
         <th>BPM</th>
         <th>ノーツ数</th>
       </tr>
