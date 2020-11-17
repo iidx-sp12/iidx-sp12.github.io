@@ -1,22 +1,167 @@
 [
+  { "name": "A",
+    "difficulty": "A",
+    "normal": "F (地力)",
+    "hard": "F (地力)",
+    "version": 7 },
+
+  { "name": "AA",
+    "difficulty": "A",
+    "normal": "D (地力)",
+    "hard": "D (地力)",
+    "version": 11 },
+  
+  { "name": "AA -rebuild-",
+    "difficulty": "A",
+    "normal": "B (地力)",
+    "hard": "B (地力)",
+    "version": 25 },
+    
+  { "name": "Adularia",
+    "difficulty": "A",
+    "normal": "C (個人差)",
+    "hard": "C (個人差)",
+    "version": 21 },
+
+  { "name": "AIR RAID FROM THA UNDAGROUND",
+    "difficulty": "L",
+    "normal": "A (個人差)",
+    "hard": "B+ (個人差)",
+    "version": 21 },
+
+  { "name": "AKASHIC BREAK",
+    "difficulty": "A",
+    "normal": "C (地力)",
+    "hard": "C (地力)",
+    "version": 27 },
+
+  { "name": "ALBIDA",
+    "difficulty": "A",
+    "normal": "D (地力)",
+    "hard": "D (地力)",
+    "version": 18 },
+  
+  { "name": "Almagest",
+    "difficulty": "A",
+    "normal": "A+ (地力)",
+    "hard": "S (地力)",
+    "version": 17 },
+  
+  { "name": "Amazing Mirage",
+    "difficulty": "L",
+    "normal": "C (地力)",
+    "hard": "B (地力)",
+    "version": 24 },
+  
+  { "name": "ANCHOR",
+    "difficulty": "A",
+    "normal": "B+ (地力)",
+    "hard": "A (地力)",
+    "version": 25 },
+
+  { "name": "Ancient Scapes",
+    "difficulty": "A",
+    "normal": "C (地力)",
+    "hard": "C (地力)",
+    "version": 21 },
+
+  { "name": "Ancient Scapes",
+    "difficulty": "L",
+    "normal": "A+ (地力)",
+    "hard": "A+ (地力)",
+    "version": 21 },
+
+  { "name": "Antigravity",
+    "difficulty": "A",
+    "normal": "B+ (地力)",
+    "hard": "A (地力)",
+    "version": 25 },
+
+  { "name": "AO-1",
+    "difficulty": "A",
+    "normal": "B (個人差)",
+    "hard": "B (地力)",
+    "version": 23 },
+
+  { "name": "Apocalypse",
+    "difficulty": "A",
+    "normal": "E (地力)",
+    "hard": "F (地力)",
+    "version": 24 },
+
+  { "name": "Arabian Rave Night",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 16 },
+
+  { "name": "Arca",
+    "difficulty": "A",
+    "normal": "E (地力)",
+    "hard": "E (地力)",
+    "version": 25 },
+
+  { "name": "Artist",
+    "difficulty": "A",
+    "normal": "A (地力)",
+    "hard": "A (地力)",
+    "version": 27 },
+
+  { "name": "B4U(BEMANI FOR YOU MIX)",
+    "difficulty": "L",
+    "normal": "A+ (地力)",
+    "hard": "A+ (地力)",
+    "version": 16 },
+
+
+
+
+  
+  { "name": "Colors(radio edit)",
+    "difficulty": "A",
+    "normal": "E (地力)",
+    "hard": "C (地力)",
+    "version": 6 },
+
+  { "name": "FAKE TIME",
+    "difficulty": "A",
+    "normal": "B (個人差)",
+    "hard": "C (個人差)",
+    "version": 11 },
+  
+  { "name": "gigadelic",
+    "difficulty": "H",
+    "normal": "E (地力)",
+    "hard": "F (地力)",
+    "version": 11 },
+  
+  { "name": "gigadelic",
+    "difficulty": "A",
+    "normal": "E (地力)",
+    "hard": "F (地力)",
+    "version": 11 },
+
+  { "name": "Innocent Walls",
+    "difficulty": "H",
+    "normal": "E (個人差)",
+    "hard": "E (個人差)",
+    "version": 10 },
+  
+  { "name": "Innocent Walls",
+    "difficulty": "A",
+    "normal": "E (個人差)",
+    "hard": "D (個人差)",
+    "version": 10 },
+
   { "name": "V",
     "difficulty": "A",
     "normal": "地力D",
     "hard": "地力D",
     "version": 5 },
 
-  { "name": "Colors(radio edit)",
-    "difficulty": "A",
-    "normal": "地力E",
-    "hard": "地力C",
-    "version": 6 },
 
-  { "name": "A",
-    "difficulty": "A",
-    "normal": "地力F",
-    "hard": "地力F",
-    "version": 7 },
 
+  
   { "name": "PLEASE DON'T GO",
     "difficulty": "A",
     "normal": "個人差D",
@@ -41,17 +186,7 @@
     "hard": "個人差D",
     "version": 9 },
   
-  { "name": "Innocent Walls",
-    "difficulty": "H",
-    "normal": "個人差E",
-    "hard": "個人差E",
-    "version": 10 },
-  
-  { "name": "Innocent Walls",
-    "difficulty": "A",
-    "normal": "個人差E",
-    "hard": "個人差D",
-    "version": 10 },
+
   
   { "name": "One More Lovely",
     "difficulty": "A",
@@ -65,29 +200,9 @@
     "hard": "個人差E",
     "version": 11 },
   
-  { "name": "AA",
-    "difficulty": "A",
-    "normal": "地力D",
-    "hard": "地力D",
-    "version": 11 },
   
-  { "name": "FAKE TIME",
-    "difficulty": "A",
-    "normal": "個人差B",
-    "hard": "個人差C",
-    "version": 11 },
   
-  { "name": "gigadelic",
-    "difficulty": "H",
-    "normal": "地力E",
-    "hard": "地力F",
-    "version": 11 },
-  
-  { "name": "gigadelic",
-    "difficulty": "A",
-    "normal": "地力E",
-    "hard": "地力F",
-    "version": 11 },
+
   
   { "name": "RED ZONE",
     "difficulty": "L",
