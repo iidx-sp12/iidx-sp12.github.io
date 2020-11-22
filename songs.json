@@ -4,9 +4,9 @@
     "normal": "地力F",
     "hard": "地力F",
     "version": 7,
-    "d-value": 2,
-    "n-value": 1,
-    "h-value": 1 
+    "d_value": 2,
+    "n_value": 1,
+    "h_value": 1 
   },
 
   { "name": "AA",
@@ -14,9 +14,9 @@
     "normal": "地力D",
     "hard": "地力D",
     "version": 11,
-    "d-value": 2,
-    "n-value": 3,
-    "h-value": 3 
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
   },
   
   { "name": "AA -rebuild-",
@@ -24,9 +24,9 @@
     "normal": "地力B",
     "hard": "地力B",
     "version": 25,
-    "d-value": 2,
-    "n-value": 5,
-    "h-value": 5 
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
   },
     
   { "name": "Adularia",
@@ -34,9 +34,9 @@
     "normal": "個人差C",
     "hard": "個人差C",
     "version": 21,
-    "d-value": 2,
-    "n-value": 4,
-    "h-value": 4 
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
   },
 
   { "name": "AIR RAID FROM THA UNDAGROUND",
@@ -44,9 +44,9 @@
     "normal": "個人差A",
     "hard": "個人差B+",
     "version": 21,
-    "d-value": 3,
-    "n-value": 7,
-    "h-value": 6 
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 6 
   },
 
   { "name": "AKASHIC BREAK",
@@ -54,9 +54,9 @@
     "normal": "地力C",
     "hard": "地力C",
     "version": 27,
-    "d-value": 2,
-    "n-value": 4,
-    "h-value": 4 
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
   },
 
   { "name": "ALBIDA",
@@ -64,9 +64,9 @@
     "normal": "地力D",
     "hard": "地力D",
     "version": 18,
-    "d-value": 2,
-    "n-value": 3,
-    "h-value": 3 
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
   },
   
   { "name": "Almagest",
@@ -74,9 +74,9 @@
     "normal": "地力A+",
     "hard": "地力S",
     "version": 17,
-    "d-value": 2,
-    "n-value": 8,
-    "h-value": 9 
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 9 
   },
   
   { "name": "Amazing Mirage",
@@ -84,9 +84,9 @@
     "normal": "地力C",
     "hard": "地力B",
     "version": 24,
-    "d-value": 3,
-    "n-value": 4,
-    "h-value": 5 
+    "d_value": 3,
+    "n_value": 4,
+    "h_value": 5 
   },
   
   { "name": "ANCHOR",
@@ -94,9 +94,9 @@
     "normal": "地力B+",
     "hard": "地力A",
     "version": 25,
-    "d-value": 2,
-    "n-value": 6,
-    "h-value": 7 
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 7 
   },
 
   { "name": "Ancient Scapes",
@@ -104,9 +104,9 @@
     "normal": "地力C",
     "hard": "地力C",
     "version": 21,
-    "d-value": 2,
-    "n-value": 4,
-    "h-value": 4 
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
   },
 
   { "name": "Ancient Scapes",
@@ -114,9 +114,9 @@
     "normal": "地力A+",
     "hard": "地力A+",
     "version": 21,
-    "d-value": 3,
-    "n-value": 8,
-    "h-value": 8 
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 8 
   },
 
   { "name": "Antigravity",
@@ -124,9 +124,9 @@
     "normal": "地力B+",
     "hard": "地力A",
     "version": 25,
-    "d-value": 2,
-    "n-value": 6,
-    "h-value": 7 
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 7 
   },
 
   { "name": "AO-1",
@@ -134,9 +134,9 @@
     "normal": "個人差B",
     "hard": "地力B",
     "version": 23,
-    "d-value": 2,
-    "n-value": 5,
-    "h-value": 5 
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
   },
 
   { "name": "Apocalypse",
@@ -144,9 +144,9 @@
     "normal": "地力E",
     "hard": "地力F",
     "version": 24,
-    "d-value": 2,
-    "n-value": 2,
-    "h-value": 1 
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 1 
   },
 
   { "name": "Arabian Rave Night",
@@ -154,9 +154,9 @@
     "normal": "",
     "hard": "",
     "version": 16,
-    "d-value": 3,
-    "n-value": 0,
-    "h-value": 0
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
   },
 
   { "name": "Arca",
@@ -164,9 +164,9 @@
     "normal": "地力E",
     "hard": "地力E",
     "version": 25,
-    "d-value": 2,
-    "n-value": 2,
-    "h-value": 2 
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2 
   },
 
   { "name": "Artist",
@@ -174,9 +174,9 @@
     "normal": "地力A",
     "hard": "地力A",
     "version": 27,
-    "d-value": 2,
-    "n-value": 7,
-    "h-value": 7 
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
   },
 
   { "name": "B4U(BEMANI FOR YOU MIX)",
@@ -184,9 +184,9 @@
     "normal": "地力A+",
     "hard": "地力A+",
     "version": 16,
-    "d-value": 3,
-    "n-value": 8,
-    "h-value": 8 
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 8 
   },
 
   { "name": "Bad Maniacs",
@@ -194,9 +194,9 @@
     "normal": "地力A",
     "hard": "地力A",
     "version": 17,
-    "d-value": 2,
-    "n-value": 7,
-    "h-value": 7 
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
   },
 
   { "name": "BEAT PRISONER",
@@ -204,9 +204,9 @@
     "normal": "地力A",
     "hard": "地力A",
     "version": 27,
-    "d-value": 2,
-    "n-value": 7,
-    "h-value": 7 
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
   },
 
   { "name": "Beat Radiance",
@@ -214,9 +214,9 @@
     "normal": "地力D",
     "hard": "地力D",
     "version": 22,
-    "d-value": 3,
-    "n-value": 3,
-    "h-value": 3 
+    "d_value": 3,
+    "n_value": 3,
+    "h_value": 3 
   },
 
   { "name": "BIGソムタム",
@@ -224,9 +224,9 @@
     "normal": "",
     "hard": "",
     "version": 28,
-    "d-value": 2,
-    "n-value": 0,
-    "h-value": 0 
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   },
 
   { "name": "BITTER CHOCOLATE STRIKER",
@@ -234,9 +234,9 @@
     "normal": "地力B",
     "hard": "地力B",
     "version": 16,
-    "d-value": 2,
-    "n-value": 5,
-    "h-value": 5 
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
   },
 
   { "name": "BLACK.by X-Cross Fade",
@@ -244,9 +244,9 @@
     "normal": "個人差A+",
     "hard": "個人差S",
     "version": 19,
-    "d-value": 2,
-    "n-value": 8,
-    "h-value": 9 
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 9 
   },
  
   { "name": "199024club -Re:BounceKiller-",
@@ -254,9 +254,9 @@
     "normal": "個人差A",
     "hard": "個人差A",
     "version": 23,
-    "d-value": 2,
-    "n-value": 7,
-    "h-value": 7 
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
   },
 
   { "name": "ΕΛΠΙΣ",
@@ -264,9 +264,9 @@
     "normal": "地力E",
     "hard": "地力E",
     "version": 20,
-    "d-value": 2,
-    "n-value": 2,
-    "h-value": 2 
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2 
   },
 
   { "name": "海神",
@@ -274,8 +274,8 @@
     "normal": "個人差C",
     "hard": "個人差C",
     "version": 21,
-    "d-value": 2,
-    "n-value": 4,
-    "h-value": 4 
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
   }
 ]
