@@ -248,7 +248,317 @@
     "n_value": 8,
     "h_value": 9 
   },
+
+  { "name": "BLUE DRAGON(雷龍RemixIIDX)",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6 
+  },  
+
+  { "name": "BLUE MIRAGE",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差A",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 7 
+  },  
+  
+  { "name": "Blue Rain",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 7 
+  },
+
+  { "name": "Blue Spring Express",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8 
+  },  
+  
+  { "name": "Boomy and The Boost",
+    "difficulty": "A",
+    "normal": "個人差B+",
+    "hard": "地力A",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 7 
+  },
+
+  { "name": "Broken",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  },  
+
+  { "name": "Broken Sword",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },
+
+  { "name": "Candy Galy",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力C",
+    "version": 14,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 4 
+  },  
+
+  { "name": "Carmina",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9 
+  }, 
+
+  { "name": "Carry Me Away",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 3 
+  }, 
+
+  { "name": "Catch Our Fire!",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  }, 
+
+  { "name": "Caterpillar",
+    "difficulty": "A",
+    "normal": "個人差D",
+    "hard": "個人差C",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4 
+  }, 
+
+  { "name": "CHRONO DIVER -NORNIR-",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 22,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 8 
+  },
+
+  { "name": "Chrono Diver -PENDULUMs-",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9 
+  }, 
+
+  { "name": "cinder",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },   
+
+  { "name": "Close the World feat.a☆ru",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },   
+
+  { "name": "Close the World feat.a☆ru",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 7 
+  },   
+
+  { "name": "CODE:1 [revision1.0.1]",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },  
+
+  { "name": "Colorful Cookie",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 16,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },  
+
+  { "name": "Colors(radio edit)",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力C",
+    "version": 6,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 4 
+  },  
  
+  { "name": "Concertino in Blue",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 13,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 3 
+  },  
+
+  { "name": "Confiserie",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9 
+  },  
+
+  { "name": "CONTRACT",
+    "difficulty": "L",
+    "normal": "個人差A+",
+    "hard": "地力A+",
+    "version": 13,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 8 
+  },  
+
+  { "name": "Cosmic Cat",
+    "difficulty": "L",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 22,
+    "d_value": 3,
+    "n_value": 4,
+    "h_value": 5 
+  },  
+
+  { "name": "Dances with Snow Fairies",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },  
+
+  { "name": "Dans la nuit de l'éternité",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 9 
+  }, 
+
+  { "name": "DARK LEGACY",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5 
+  },  
+
+  { "name": "dAuntl3ss",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力D",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 3 
+  }, 
+
+  { "name": "DAY DREAM",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差B+",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 6
+  }, 
+
+  { "name": "DEADHEAT",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6
+  }, 
+
+  { "name": "DEATH†ZIGOQ～怒りの高速爆走野郎～",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 8
+  }, 
+
   { "name": "199024club -Re:BounceKiller-",
     "difficulty": "A",
     "normal": "個人差A",
