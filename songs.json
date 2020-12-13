@@ -559,6 +559,148 @@
     "h_value": 8
   }, 
 
+  { "name": "Despair of ELFERIA",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "Devil's Gear",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "Devilz Staircase",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  }, 
+
+  { "name": "DIAMOND CROSSING",
+    "difficulty": "A",
+    "normal": "個人差B+",
+    "hard": "個人差A+",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 5.5,
+    "h_value": 7.5
+  }, 
+
+  { "name": "DIAVOLO",
+    "difficulty": "A",
+    "normal": "個人差S+",
+    "hard": "個人差S+",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 9.5,
+    "h_value": 9.5
+  },
+
+  { "name": "DOMINION",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力B",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 5
+  }, 
+
+  { "name": "DORNWALD ～Junge～",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "Double Dribble",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "Dr. Chemical & Killing Machine",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "Drastic Dramatic",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "DropZ-Line-",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  }, 
+
+  { "name": "DRUNK MONKY",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "DUE TOMORROW",
+    "difficulty": "A",
+    "normal": "個人差E",
+    "hard": "個人差C",
+    "version": 13,
+    "d_value": 2,
+    "n_value": 1.5,
+    "h_value": 3.5
+  }, 
+
+  { "name": "Dynamite",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "個人差S",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 8.5
+  }, 
+
+
+
   { "name": "199024club -Re:BounceKiller-",
     "difficulty": "A",
     "normal": "個人差A",
