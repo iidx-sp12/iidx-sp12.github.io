@@ -35,8 +35,8 @@
     "hard": "個人差C",
     "version": 21,
     "d_value": 2,
-    "n_value": 4,
-    "h_value": 4 
+    "n_value": 4.5,
+    "h_value": 4.5 
   },
 
   { "name": "AIR RAID FROM THA UNDAGROUND",
@@ -45,8 +45,8 @@
     "hard": "個人差B+",
     "version": 21,
     "d_value": 3,
-    "n_value": 7,
-    "h_value": 6 
+    "n_value": 7.5,
+    "h_value": 6.5 
   },
 
   { "name": "AKASHIC BREAK",
@@ -135,7 +135,7 @@
     "hard": "地力B",
     "version": 23,
     "d_value": 2,
-    "n_value": 5,
+    "n_value": 5.5,
     "h_value": 5 
   },
 
@@ -245,8 +245,8 @@
     "hard": "個人差S",
     "version": 19,
     "d_value": 2,
-    "n_value": 8,
-    "h_value": 9 
+    "n_value": 8.5,
+    "h_value": 9.5 
   },
 
   { "name": "BLUE DRAGON(雷龍RemixIIDX)",
@@ -265,8 +265,8 @@
     "hard": "個人差A",
     "version": 22,
     "d_value": 2,
-    "n_value": 4,
-    "h_value": 7 
+    "n_value": 4.5,
+    "h_value": 7.5 
   },  
   
   { "name": "Blue Rain",
@@ -295,7 +295,7 @@
     "hard": "地力A",
     "version": 25,
     "d_value": 2,
-    "n_value": 6,
+    "n_value": 6.5,
     "h_value": 7 
   },
 
@@ -365,8 +365,8 @@
     "hard": "個人差C",
     "version": 24,
     "d_value": 2,
-    "n_value": 3,
-    "h_value": 4 
+    "n_value": 3.5,
+    "h_value": 4.5 
   }, 
 
   { "name": "CHRONO DIVER -NORNIR-",
@@ -475,7 +475,7 @@
     "hard": "地力A+",
     "version": 13,
     "d_value": 3,
-    "n_value": 8,
+    "n_value": 8.5,
     "h_value": 8 
   },  
 
@@ -535,8 +535,8 @@
     "hard": "個人差B+",
     "version": 20,
     "d_value": 2,
-    "n_value": 4,
-    "h_value": 6
+    "n_value": 4.5,
+    "h_value": 6.5
   }, 
 
   { "name": "DEADHEAT",
@@ -565,8 +565,8 @@
     "hard": "個人差A",
     "version": 23,
     "d_value": 2,
-    "n_value": 7,
-    "h_value": 7 
+    "n_value": 7.5,
+    "h_value": 7.5 
   },
 
   { "name": "ΕΛΠΙΣ",
@@ -585,7 +585,7 @@
     "hard": "個人差C",
     "version": 21,
     "d_value": 2,
-    "n_value": 4,
-    "h_value": 4 
+    "n_value": 4.5,
+    "h_value": 4.5 
   }
 ]
