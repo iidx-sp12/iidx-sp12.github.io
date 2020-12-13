@@ -1119,6 +1119,256 @@
     "h_value": 10
   },  
 
+  { "name": "HADES",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力B+",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 6
+  },  
+
+  { "name": "HAERETICUS",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  },  
+
+  { "name": "HARD BRAIN",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力C",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 4
+  }, 
+
+  { "name": "Highcharge Divolt",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "Hollywood Galaxy",
+    "difficulty": "A",
+    "normal": "個人差B+",
+    "hard": "地力A",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 5.5,
+    "h_value": 7
+  }, 
+
+  { "name": "ICARUS",
+    "difficulty": "A",
+    "normal": "個人差E",
+    "hard": "個人差D",
+    "version": 15,
+    "d_value": 2,
+    "n_value": 1.5,
+    "h_value": 2.5
+  }, 
+
+  { "name": "ICARUS",
+    "difficulty": "L",
+    "normal": "地力S",
+    "hard": "地力S+",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 8.5,
+    "h_value": 9.5
+  },   
+
+  { "name": "Idola",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "Illusionary Waterlily",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  }, 
+
+  { "name": "IMPLANTATION",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 4.5
+  }, 
+
+  { "name": "Inferno of Fomalhaut",
+    "difficulty": "A",
+    "normal": "個人差B+",
+    "hard": "個人差A",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 5.5,
+    "h_value": 6.5
+  }, 
+
+  { "name": "Initiation",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8
+  }, 
+
+  { "name": "Innocent Walls",
+    "difficulty": "H",
+    "normal": "個人差E",
+    "hard": "個人差E",
+    "version": 10,
+    "d_value": 1,
+    "n_value": 1.5,
+    "h_value": 1.5
+  }, 
+
+  { "name": "Innocent Walls",
+    "difficulty": "A",
+    "normal": "個人差E",
+    "hard": "個人差D",
+    "version": 10,
+    "d_value": 2,
+    "n_value": 1.5,
+    "h_value": 2.5
+  }, 
+
+  { "name": "INSOMNIA",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  }, 
+
+  { "name": "Invitation from Mr.C",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "個人差B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4.5
+  }, 
+
+  { "name": "invoker",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  }, 
+
+  { "name": "invoker",
+    "difficulty": "L",
+    "normal": "個人差A+",
+    "hard": "個人差A+",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 7.5,
+    "h_value": 7.5
+  }, 
+
+  { "name": "JOMANDA",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "個人差A",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6.5
+  }, 
+
+  { "name": "KAISER PHOENIX",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 7
+  },   
+
+  { "name": "KAISER PHOENIX",
+    "difficulty": "L",
+    "normal": "地力S",
+    "hard": "地力S+",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 9,
+    "h_value": 10
+  },   
+
+  { "name": "KAMAITACHI",
+    "difficulty": "L",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 14,
+    "d_value": 3,
+    "n_value": 10,
+    "h_value": 10
+  },  
+
+  { "name": "KILL EACH OTHER",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  },  
+
+  { "name": "Konzert V",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  },  
+
+  { "name": "Kung-fu Empire",
+    "difficulty": "L",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 16,
+    "d_value": 3,
+    "n_value": 3,
+    "h_value": 4
+  },  
+
   { "name": "199024club -Re:BounceKiller-",
     "difficulty": "A",
     "normal": "個人差A",
