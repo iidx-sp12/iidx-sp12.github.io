@@ -10,7 +10,11 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.0/css/theme.default.min.css">
   <script type="text/javascript">
     $(function() {
-      $("#tbl").tablesorter();
+      $("#tbl").tablesorter({
+        headers: {
+          0: { sorter: false },
+        }
+      });
       
       $.getJSON("songs.json", function(data) {
         var tb = $("#tbl tbody");
