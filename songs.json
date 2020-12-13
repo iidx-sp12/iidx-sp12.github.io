@@ -699,7 +699,425 @@
     "h_value": 8.5
   }, 
 
+  { "name": "EBONY & IVORY",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  }, 
 
+  { "name": "EBONY & IVORY",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "version": 22,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 9
+  }, 
+
+  { "name": "ECHIDNA",
+    "difficulty": "A",
+    "normal": "個人差S",
+    "hard": "個人差S",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 8.5,
+    "h_value": 8.5
+  }, 
+
+  { "name": "Elemental Creation",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "EMERALDAS",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "Empire of Fury",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
+  { "name": "encounter",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  }, 
+
+  { "name": "entelecheia",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力C",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 4
+  }, 
+
+  { "name": "eRAseRmOToRpHAntOM",
+    "difficulty": "A",
+    "normal": "個人差D",
+    "hard": "個人差D",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 2.5,
+    "h_value": 2.5
+  }, 
+
+  { "name": "EROICA",
+    "difficulty": "A",
+    "normal": "個人差S",
+    "hard": "個人差S+",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 8.5,
+    "h_value": 9.5
+  }, 
+
+  { "name": "EVANESCENT",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "Evans",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "Everlasting Message",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "EXUSIA",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力B+",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 6
+  }, 
+
+  { "name": "F",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  }, 
+
+  { "name": "FAKE TIME",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差C",
+    "version": 11,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 3.5
+  }, 
+
+  { "name": "fallen leaves -IIDX edition-",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 7
+  }, 
+
+  { "name": "FANTASTIC THREE",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "個人差B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4.5
+  }, 
+
+  { "name": "Fascination MAXX",
+    "difficulty": "A",
+    "normal": "個人差E",
+    "hard": "個人差S",
+    "version": 14,
+    "d_value": 2,
+    "n_value": 1.5,
+    "h_value": 8.5
+  }, 
+
+  { "name": "Feel The Beat",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "Feel The Beat",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力S",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 9
+  }, 
+
+  { "name": "fffff",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "Fire Beat",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
+  { "name": "FIRE FIRE",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 14,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "Flashes",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差A",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 6.5
+  }, 
+
+  { "name": "Friction[!]Function",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "FUZIN RIZIN",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "G59",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力B+",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 6
+  }, 
+
+  { "name": "GAIA",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "GENE",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  }, 
+
+  { "name": "gigadelic",
+    "difficulty": "H",
+    "normal": "地力E",
+    "hard": "地力F",
+    "version": 11,
+    "d_value": 1,
+    "n_value": 2,
+    "h_value": 1
+  }, 
+
+  { "name": "gigadelic",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力F",
+    "version": 11,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 1
+  }, 
+
+  { "name": "Go Ahead!!",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S+",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 10
+  }, 
+
+  { "name": "Go Beyond!!",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力S+",
+    "version": 16,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 10
+  }, 
+  
+  { "name": "GO OVER WITH GLARE -ROOTAGE 26-",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "Godspeed",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B+",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 6
+  }, 
+
+  { "name": "GOLDEN CROSS",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "Grand Chariot",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6
+  }, 
+
+  { "name": "Gravigazer",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "GRID KNIGHT",
+    "difficulty": "L",
+    "normal": "個人差E",
+    "hard": "地力E",
+    "version": 14,
+    "d_value": 3,
+    "n_value": 1.5,
+    "h_value": 2
+  }, 
+
+  { "name": "GuNGNiR",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 8
+  },  
+
+  { "name": "GuNGNiR",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "地力S+",
+    "version": 24,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 10
+  },  
 
   { "name": "199024club -Re:BounceKiller-",
     "difficulty": "A",
