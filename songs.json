@@ -1369,15 +1369,515 @@
     "h_value": 4
   },  
 
-  { "name": "199024club -Re:BounceKiller-",
+  { "name": "L.F.O",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  },  
+
+  { "name": "LASER CRUSTER",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 14,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  },  
+
+  { "name": "LASER CRUSTER (IGNITE REMIX)",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  },  
+
+  { "name": "Last Dance",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  },  
+
+  { "name": "Lethal Weapon",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "Level One",
     "difficulty": "A",
     "normal": "個人差A",
-    "hard": "個人差A",
-    "version": 23,
+    "hard": "個人差S",
+    "version": 26,
     "d_value": 2,
     "n_value": 6.5,
+    "h_value": 8.5
+  }, 
+
+  { "name": "Level 2",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差B+",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 5.5
+  }, 
+
+  { "name": "Liberation",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 3
+  }, 
+
+  { "name": "Life Is A Game ft.DD\"ナカタ\"Metal",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "LIGHTNING STRIKES",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  }, 
+
+  { "name": "Little Little Princess",
+    "difficulty": "L",
+    "normal": "地力B",
+    "hard": "地力C",
+    "version": 12,
+    "d_value": 3,
+    "n_value": 5,
+    "h_value": 4
+  }, 
+
+  { "name": "Little Star",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  }, 
+
+  { "name": "Lords Of The Roundtable",
+    "difficulty": "A",
+    "normal": "個人差S",
+    "hard": "個人差S",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 8.5,
+    "h_value": 8.5
+  }, 
+
+  { "name": "LOST TECHNOLOGIE",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  }, 
+
+  { "name": "M4K3 1T B0UNC3",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力C",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 4
+  }, 
+
+  { "name": "Mächö Mönky",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 7
+  }, 
+
+  { "name": "Mare Nectaris",
+    "difficulty": "A",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 10,
+    "h_value": 10
+  }, 
+
+  { "name": "Matt Silver",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "Megalara Garuda",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "MENDES",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 15,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "Monopole.",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  }, 
+
+  { "name": "moon_child",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 9,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  }, 
+
+  { "name": "mosaic",
+    "difficulty": "A",
+    "normal": "個人差D",
+    "hard": "個人差E",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 2.5,
+    "h_value": 1.5
+  }, 
+
+  { "name": "NEO GENERATOR SEVEN",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  }, 
+
+  { "name": "neu",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  },  
+
+  { "name": "New Castle Legions",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差B",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 4.5
+  },  
+
+  { "name": "Nightmare before oversleep",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  },  
+
+  { "name": "NINJA IS DEAD IIDX ver.",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  },  
+
+  { "name": "NITROUS CANNON",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  },  
+
+  { "name": "NNRT",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  },  
+
+  { "name": "NZM",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "個人差S",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8.5
+  },  
+
+  { "name": "One More Lovely",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力C",
+    "version": 10,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 4
+  },  
+
+  { "name": "one or eight",
+    "difficulty": "A",
+    "normal": "個人差E",
+    "hard": "個人差D",
+    "version": 9,
+    "d_value": 2,
+    "n_value": 1.5,
+    "h_value": 2.5
+  },  
+
+  { "name": "ONIGOROSHI",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差B",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 4.5
+  },  
+
+  { "name": "oratio",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 15,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  },  
+
+  { "name": "ORCA",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6
+  }, 
+
+  { "name": "OTENAMI Hurricane",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  }, 
+
+  { "name": "OTENAMI Hurricane",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  }, 
+
+  { "name": "Painful Fate",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  },
+
+  { "name": "Papilio ulysses",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差B+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 5.5 
+  },
+
+  { "name": "PARADISE LOST",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8 
+  },
+
+  { "name": "PARANOiA ～HADES～",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差A",
+    "version": 15,
+    "d_value": 2,
+    "n_value": 4.5,
     "h_value": 6.5 
   },
+
+  { "name": "perditus†paradisus",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9 
+  },
+
+  { "name": "Persephone",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  },
+
+  { "name": "Plan 8",
+    "difficulty": "A",
+    "normal": "個人差S+",
+    "hard": "個人差S+",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 9.5,
+    "h_value": 9.5 
+  },
+
+  { "name": "PLEASE DON'T GO",
+    "difficulty": "A",
+    "normal": "個人差D",
+    "hard": "個人差D",
+    "version": 8,
+    "d_value": 2,
+    "n_value": 2.5,
+    "h_value": 2.5 
+  },
+
+  { "name": "Please Welcome Mr.C",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 3 
+  },  
+
+  { "name": "POSSESSION",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "個人差C",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3.5 
+  },  
+
+  { "name": "Primitive Vibes",
+    "difficulty": "A",
+    "normal": "地力F",
+    "hard": "地力F",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 1,
+    "h_value": 1 
+  },  
+
+  { "name": "Proof of the existence",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },  
+
+  { "name": "PUNISHER",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4 
+  },  
 
   { "name": "ΕΛΠΙΣ",
     "difficulty": "A",
