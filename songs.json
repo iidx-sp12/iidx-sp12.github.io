@@ -1185,8 +1185,8 @@
     "hard": "地力S+",
     "version": 15,
     "d_value": 3,
-    "n_value": 8.5,
-    "h_value": 9.5
+    "n_value": 9,
+    "h_value": 10
   },   
 
   { "name": "Idola",
@@ -1315,8 +1315,8 @@
     "hard": "地力A+",
     "version": 21,
     "d_value": 2,
-    "n_value": 6,
-    "h_value": 7
+    "n_value": 7,
+    "h_value": 8
   },   
 
   { "name": "KAISER PHOENIX",
@@ -1878,6 +1878,216 @@
     "n_value": 3,
     "h_value": 4 
   },  
+
+  { "name": "Quakes",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 8 
+  },    
+
+  { "name": "QUANTUM TELEPORTATION",
+    "difficulty": "L",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 19,
+    "d_value": 3,
+    "n_value": 5,
+    "h_value": 5 
+  },    
+
+  { "name": "quaver♪",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },  
+
+  { "name": "quell～the seventh slave～",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  },  
+
+  { "name": "ra'am",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "個人差B+",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5.5 
+  },  
+
+  { "name": "rage against usual",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "個人差A",
+    "version": 12,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 6.5 
+  }, 
+
+  { "name": "RAIN",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力D",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 3 
+  }, 
+
+  { "name": "Rampage",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  }, 
+
+  { "name": "Raspberry Railgun",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2 
+  }, 
+
+  { "name": "Rave Cannon",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  }, 
+
+  { "name": "Rave*it!! Rave*it!!",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差A",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 6.5 
+  },  
+
+  { "name": "Rave Patroller",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力D",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 3 
+  }, 
+
+  { "name": "RED ZONE",
+    "difficulty": "L",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 11,
+    "d_value": 3,
+    "n_value": 2,
+    "h_value": 2 
+  },  
+
+  { "name": "Red. by Full Metal Jacket",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差A",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 6.5 
+  },  
+
+  { "name": "Red. by Jack Trance",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 8.5 
+  },  
+
+  { "name": "Reflux",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差A+",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 7.5 
+  },  
+
+  { "name": "refrain",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  }, 
+
+  { "name": "reunion",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力A",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 7 
+  }, 
+
+  { "name": "Ristaccia",
+    "difficulty": "A",
+    "normal": "地力F",
+    "hard": "地力F",
+    "version": 15,
+    "d_value": 2,
+    "n_value": 1,
+    "h_value": 1 
+  },   
+
+  { "name": "rommmo",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },  
+
+  { "name": "ruin of opals",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  }, 
 
   { "name": "ΕΛΠΙΣ",
     "difficulty": "A",
