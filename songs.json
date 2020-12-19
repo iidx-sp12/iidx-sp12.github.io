@@ -2089,6 +2089,656 @@
     "h_value": 5 
   }, 
 
+  { "name": "sakura storm",
+    "difficulty": "A",
+    "normal": "個人差F",
+    "hard": "個人差E",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 0.5,
+    "h_value": 1.5 
+  }, 
+
+  { "name": "SAY BAY",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5 
+  }, 
+
+  { "name": "Say YEEEAHH",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4 
+  }, 
+
+  { "name": "SCREAM SQUAD",
+    "difficulty": "A",
+    "normal": "個人差E",
+    "hard": "個人差E",
+    "version": 12,
+    "d_value": 2,
+    "n_value": 1.5,
+    "h_value": 1.5 
+  }, 
+
+  { "name": "SCREW // owo // SCREW",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差A+",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 7.5 
+  }, 
+
+  { "name": "Scripted Connection⇒ A mix",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "個人差C",
+    "version": 12,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3.5 
+  }, 
+
+  { "name": "Secrets",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 16,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 8
+  }, 
+
+  { "name": "Sense 2007",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差B",
+    "version": 14,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 4.5 
+  }, 
+
+  { "name": "Session 9-Chronicles-",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6 
+  }, 
+
+  { "name": "Shooting Fireball",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 5 
+  }, 
+
+  { "name": "Sigmund",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9 
+  }, 
+
+  { "name": "Sigmund",
+    "difficulty": "L",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 10,
+    "h_value": 10
+  }, 
+
+  { "name": "Sky High",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6 
+  }, 
+
+  { "name": "Slipstream",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6 
+  }, 
+
+  { "name": "Smashing Wedge",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8 
+  }, 
+
+  { "name": "Snake Stick",
+    "difficulty": "A",
+    "normal": "個人差B+",
+    "hard": "個人差A+",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 5.5,
+    "h_value": 7.5 
+  }, 
+
+  { "name": "Snakey Kung-fu",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "個人差A",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6.5 
+  }, 
+
+  { "name": "snow storm",
+    "difficulty": "L",
+    "normal": "地力F",
+    "hard": "地力F",
+    "version": 14,
+    "d_value": 3,
+    "n_value": 1,
+    "h_value": 1 
+  }, 
+
+  { "name": "Sol Cosine Job 2",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  }, 
+
+  { "name": "SOLID STATE SQUAD",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  }, 
+
+  { "name": "SOLID STATE SQUAD",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 17,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 7 
+  }, 
+
+  { "name": "Sounds Of Summer",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  }, 
+
+  { "name": "SpaceLand☆TOYBOX",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  }, 
+
+  { "name": "SPECIAL SUMMER CAMPAIGN!",
+    "difficulty": "A",
+    "normal": "地力F",
+    "hard": "地力F",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 1,
+    "h_value": 1 
+  }, 
+
+  { "name": "spiral galaxy",
+    "difficulty": "L",
+    "normal": "地力C",
+    "hard": "地力D",
+    "version": 11,
+    "d_value": 3,
+    "n_value": 4,
+    "h_value": 3 
+  }, 
+
+  { "name": "STARLIGHT DANCEHALL",
+    "difficulty": "L",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 23,
+    "d_value": 3,
+    "n_value": 6,
+    "h_value": 6 
+  }, 
+
+  { "name": "Steel Edge",
+    "difficulty": "A",
+    "normal": "個人差E",
+    "hard": "地力E",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 1.5,
+    "h_value": 2
+  }, 
+
+  { "name": "StrayedCatz",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6 
+  }, 
+
+  { "name": "STULTI",
+    "difficulty": "A",
+    "normal": "個人差B+",
+    "hard": "地力B+",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 5.5,
+    "h_value": 6 
+  }, 
+
+  { "name": "Summerlights(IIDX Edition)",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 3 
+  }, 
+
+  { "name": "Super Rush",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  }, 
+
+  { "name": "Symmetry",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2 
+  }, 
+
+  { "name": "SYNC-ANTHEM",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 5 
+  }, 
+
+  { "name": "T-REX vs Velociraptor (In the Far east euphoria)",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  }, 
+
+  { "name": "TECHNO Style Essentials",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "個人差C",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 3.5 
+  }, 
+
+  { "name": "THANK YOU FOR PLAYING",
+    "difficulty": "L",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 16,
+    "d_value": 3,
+    "n_value": 4,
+    "h_value": 5 
+  }, 
+
+  { "name": "THE BRAVE MUST DIE",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  }, 
+
+  { "name": "The Chase",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 8.5
+  }, 
+
+  { "name": "THE DAY OF JUBILATIONS",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  }, 
+
+  { "name": "THE DEEP STRIKER",
+    "difficulty": "L",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 5,
+    "h_value": 5 
+  }, 
+
+  { "name": "THE F∀UST",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8 
+  }, 
+
+  { "name": "The Least 100sec",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  }, 
+
+  { "name": "The Limbo",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 5 
+  }, 
+
+  { "name": "THE PEERLESS UNDER HEAVEN",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  }, 
+
+  { "name": "The Rebellion of Sequencer",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力B+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 6 
+  }, 
+
+  { "name": "The Sampling Paradise",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  }, 
+
+  { "name": "Thor's Hammer",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差S+",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 9.5
+  }, 
+
+  { "name": "Thunderbolt",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  },   
+
+  { "name": "TIEFSEE",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  },  
+
+  { "name": "Timepiece phase II",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6 
+  },  
+
+  { "name": "Timepiece phase II(CN Ver.)",
+    "difficulty": "A",
+    "normal": "個人差S",
+    "hard": "個人差S+",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 8.5,
+    "h_value": 9.5
+  },  
+
+  { "name": "TITANS RETURN",
+    "difficulty": "L",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "version": 19,
+    "d_value": 3,
+    "n_value": 7.5,
+    "h_value": 8.5
+  },  
+
+  { "name": "Todestrieb",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 3 
+  },  
+
+  { "name": "TOGAKUSHI",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "個人差B",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 4.5
+  },  
+
+  { "name": "TOXIC VIBRATION",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6 
+  },  
+
+  { "name": "TRANOID",
+    "difficulty": "L",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 14,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9 
+  },  
+
+  { "name": "Trill auf G",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力B+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 6 
+  },    
+
+  { "name": "Triple Counter",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  },  
+
+  { "name": "TRIUMPH",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  },  
+
+  { "name": "TROOPERS",
+    "difficulty": "A",
+    "normal": "個人差E",
+    "hard": "個人差E",
+    "version": 15,
+    "d_value": 2,
+    "n_value": 1.5,
+    "h_value": 1.5 
+  },
+
+  { "name": "True Blue",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  },    
+
+  { "name": "Twelfth Style",
+    "difficulty": "L",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 12,
+    "d_value": 3,
+    "n_value": 6,
+    "h_value": 6 
+  },    
+
+  { "name": "Übertreffen",
+    "difficulty": "L",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 5,
+    "h_value": 6 
+  },    
+
+  { "name": "Unbelief",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力A+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 8 
+  },      
+
+  { "name": "V",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 5,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  },  
+
   { "name": "ΕΛΠΙΣ",
     "difficulty": "A",
     "normal": "地力E",
