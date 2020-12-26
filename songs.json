@@ -1739,16 +1739,6 @@
     "h_value": 5
   }, 
 
-  { "name": "OTENAMI Hurricane",
-    "difficulty": "A",
-    "normal": "地力B",
-    "hard": "地力B",
-    "version": 24,
-    "d_value": 2,
-    "n_value": 5,
-    "h_value": 5
-  }, 
-
   { "name": "Painful Fate",
     "difficulty": "A",
     "normal": "地力A",
