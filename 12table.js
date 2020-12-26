@@ -1,4 +1,4 @@
-var len = data.length;
+var len;
 
 $(function() {
   $("#tbl").tablesorter();
