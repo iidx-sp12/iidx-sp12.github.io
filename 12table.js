@@ -1,9 +1,10 @@
+var len = data.length;
+
 $(function() {
   $("#tbl").tablesorter();
   
   $.getJSON("songs.json", function(data) {
     var tb = $("#tbl tbody");
-    var len = data.length;
     for(let i = 0; i < len; i++) {
       let row = "";
       row += "<tr>";
