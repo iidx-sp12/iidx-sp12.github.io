@@ -2739,6 +2739,316 @@
     "h_value": 3 
   },  
 
+  { "name": "Valanga",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },  
+
+  { "name": "VANESSA",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 14,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 3 
+  },  
+
+  { "name": "VANESSA",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "version": 14,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 9 
+  },  
+
+  { "name": "Venom",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2 
+  },  
+
+  { "name": "Verflucht",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 8 
+  }, 
+
+  { "name": "Verflucht",
+    "difficulty": "L",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 10,
+    "h_value": 10
+  },   
+
+  { "name": "Vinculum stellarum",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  }, 
+
+  { "name": "Viridian",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  }, 
+
+  { "name": "Visterhv",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6 
+  }, 
+
+  { "name": "Vitrum",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },   
+
+  { "name": "voltississimo",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 8 
+  }, 
+
+  { "name": "VOX UP",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差A+",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 7.5
+  }, 
+
+  { "name": "Watch Out Pt.2",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差A",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 6.5
+  }, 
+
+  { "name": "waxing and wanding",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 13,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 7 
+  }, 
+
+  { "name": "We're so Happy(P*Light Remix) IIDX ver.",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B+",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 6 
+  }, 
+
+  { "name": "Welcome",
+    "difficulty": "L",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 23,
+    "d_value": 3,
+    "n_value": 5,
+    "h_value": 6 
+  }, 
+
+  { "name": "WONDER WALKER",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  }, 
+
+  { "name": "X",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6 
+  }, 
+
+  { "name": "Xlø",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力A",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 7
+  }, 
+
+  { "name": "Xperanza",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力A",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 7
+  }, 
+
+  { "name": "Y&Co. is dead or alive",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "個人差S",
+    "version": 16,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 8.5
+  }, 
+
+  { "name": "YAKSHA",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6
+  }, 
+
+  { "name": "ZEPHYRANTHES",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 23,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "Zirkfied",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "地力A",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 7
+  }, 
+
+  { "name": "ZZ",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "地力C",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 4
+  }, 
+
+  { "name": "199024club -Re:BounceKiller-",
+    "difficulty": "A",
+    "normal": "個人差A",
+    "hard": "個人差A",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 6.5,
+    "h_value": 6.5
+  },   
+
+  { "name": "255",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "個人差A+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7.5
+  },  
+
+  { "name": "3!dolon Forc3",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
+  { "name": "3y3s",
+    "difficulty": "A",
+    "normal": "個人差A",
+    "hard": "地力S+",
+    "version": 16,
+    "d_value": 2,
+    "n_value": 6.5,
+    "h_value": 10
+  }, 
+
+  { "name": "紫陽花 -AZISAI-",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "アストライアの双皿",
+    "difficulty": "A",
+    "normal": "個人差B",
+    "hard": "個人差B",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 4.5,
+    "h_value": 4.5
+  }, 
+
   { "name": "ΕΛΠΙΣ",
     "difficulty": "A",
     "normal": "地力E",
