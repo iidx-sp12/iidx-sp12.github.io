@@ -151,12 +151,12 @@
 
   { "name": "Arabian Rave Night",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B",
     "version": 16,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 5,
+    "h_value": 5
   },
 
   { "name": "Arca",
@@ -3049,6 +3049,106 @@
     "h_value": 4.5
   }, 
 
+  { "name": "紅牡丹",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  }, 
+
+  { "name": "刃図羅",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
+  { "name": "お菓子の王国",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 8
+  }, 
+
+  { "name": "子供の落書き帳",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B+",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 6
+  }, 
+
+  { "name": "抱きしめてモナムール",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6
+  }, 
+
+  { "name": "シムルグの目醒め",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8
+  }, 
+
+  { "name": "龍と少女とデコヒーレンス",
+    "difficulty": "L",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 20,
+    "d_value": 3,
+    "n_value": 5,
+    "h_value": 5
+  }, 
+
+  { "name": "童話回廊",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力C",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 4
+  }, 
+
+  { "name": "駅猫のワルツ",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "煉獄のエルフェリア",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 9
+  }, 
+
   { "name": "ΕΛΠΙΣ",
     "difficulty": "A",
     "normal": "地力E",
@@ -3058,6 +3158,666 @@
     "n_value": 2,
     "h_value": 2 
   },
+
+  { "name": "魅惑のYUMMYスイーツ",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6 
+  },
+
+  { "name": "焔極OVERKILL",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9 
+  },
+
+  { "name": "電人、暁に斃れる。",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 14,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3 
+  },
+
+  { "name": "不沈艦CANDY",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 16,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5 
+  },
+
+  { "name": "がっつり陰キャ!?怪盗いいんちょの億劫^^;",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8 
+  },
+
+  { "name": "閠槞彁の願い",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
+  { "name": "焱影",
+    "difficulty": "A",
+    "normal": "個人差B+",
+    "hard": "個人差B+",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 5.5,
+    "h_value": 5.5
+  },
+
+  { "name": "卑弥呼",
+    "difficulty": "A",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 16,
+    "d_value": 2,
+    "n_value": 10,
+    "h_value": 10
+  },
+
+  { "name": "お米の美味しい炊き方、そしてお米を食べることによるその効果。",
+    "difficulty": "L",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 20,
+    "d_value": 3,
+    "n_value": 9,
+    "h_value": 9
+  },
+
+  { "name": "表裏一体!?怪盗いいんちょの悩み♥",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  },
+
+  { "name": "イザナミノナゲキ",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  },
+
+  { "name": "カゴノトリ～弐式～",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力E",
+    "version": 13,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 2
+  },
+
+  { "name": "Χ-DEN",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 10
+  },
+
+  { "name": "少年A",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 15,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 3
+  },
+
+  { "name": "恋する☆宇宙戦争っ!!",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  },
+
+  { "name": "金野火織の金色提言",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 8
+  },  
+
+  { "name": "黒髪乱れし修羅となりて",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力E",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 2
+  },  
+
+  { "name": "狂イ咲ケ焔ノ華",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  },  
+
+  { "name": "キャトられ♥恋はモ～モク",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 7
+  },  
+
+  { "name": "共鳴遊戯の華",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  },  
+
+  { "name": "九尾狐夜行",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  },  
+
+  { "name": "疾風迅雷",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  },  
+
+  { "name": "疾風迅雷",
+    "difficulty": "L",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 10,
+    "h_value": 10
+  },    
+
+  { "name": "リリーゼと炎龍レーヴァテイン",
+    "difficulty": "A",
+    "normal": "個人差C",
+    "hard": "地力B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 3.5,
+    "h_value": 5
+  },  
+
+  { "name": "魔法のかくれんぼ",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
+  { "name": "#MAGiCVLGiRL_TRVP_B3VTZ",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  },  
+
+  { "name": "冥",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力S+",
+    "version": 12,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 10
+  },  
+
+  { "name": "めいさいアイドル☆あいむちゃん♪",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  },  
+
+  { "name": "嘆きの樹",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 13,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 6
+  }, 
+
+  { "name": "夏色DIARY - L.E.D.-G STYLE MIX -",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "IX",
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "音楽",
+    "difficulty": "A",
+    "normal": "個人差A",
+    "hard": "個人差A",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 6.5,
+    "h_value": 6.5
+  }, 
+
+  { "name": "ピアノ協奏曲第１番\"蠍火\"",
+    "difficulty": "A",
+    "normal": "個人差A",
+    "hard": "地力A",
+    "version": 11,
+    "d_value": 2,
+    "n_value": 6.5,
+    "h_value": 7
+  }, 
+
+  { "name": "ピアノ協奏曲第１番\"蠍火\" (BlackY Remix)",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "深淵に捧ぐレクイエム",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  }, 
+
+  { "name": "桜",
+    "difficulty": "A",
+    "normal": "個人差E",
+    "hard": "個人差D",
+    "version": 8,
+    "d_value": 2,
+    "n_value": 1.5,
+    "h_value": 2.5
+  }, 
+
+  { "name": "シュレーディンガーの猫",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "聖人の塔",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力B",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 5
+  }, 
+
+  { "name": "世界の果てに約束の凱歌を -ReUnion-",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
+  { "name": "千年ノ理",
+    "difficulty": "A",
+    "normal": "地力E",
+    "hard": "地力F",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 2,
+    "h_value": 1
+  }, 
+
+  { "name": "千年ノ理",
+    "difficulty": "L",
+    "normal": "地力S",
+    "hard": "地力A+",
+    "version": 22,
+    "d_value": 3,
+    "n_value": 9,
+    "h_value": 8
+  }, 
+
+  { "name": "旋律のドグマ～Misérables～",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "雪月花",
+    "difficulty": "A",
+    "normal": "個人差E",
+    "hard": "個人差E",
+    "version": 10,
+    "d_value": 2,
+    "n_value": 1.5,
+    "h_value": 1.5
+  }, 
+
+  { "name": "灼熱Beach Side Bunny",
+    "difficulty": "A",
+    "normal": "個人差S+",
+    "hard": "個人差S+",
+    "version": 18,
+    "d_value": 2,
+    "n_value": 9.5,
+    "h_value": 9.5
+  }, 
+
+  { "name": "灼熱 Pt.2 Long Train Running",
+    "difficulty": "A",
+    "normal": "個人差S+",
+    "hard": "個人差S+",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 9.5,
+    "h_value": 9.5
+  }, 
+
+  { "name": "〆",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "神謳 -RESONANCE-",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  }, 
+
+  { "name": "少年は空を辿る",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  }, 
+
+  { "name": "最小三倍完全数",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "即席！脳直★ミュージックシステム",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力C",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 4
+  }, 
+
+  { "name": "それは花火のような恋",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 22,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  }, 
+
+  { "name": "水鏡の異界",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
+  { "name": "たまゆら",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 5
+  }, 
+
+  { "name": "天空の夜明け",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 19,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "真 地獄超特急 -HELL or HELL-",
+    "difficulty": "A",
+    "normal": "個人差A+",
+    "hard": "個人差A+",
+    "version": 23,
+    "d_value": 2,
+    "n_value": 7.5,
+    "h_value": 7.5
+  }, 
+
+  { "name": "仮想空間の旅人たち",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力B+",
+    "version": 20,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 6
+  }, 
+
+  { "name": "轟け！恋のビーンボール！！",
+    "difficulty": "A",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "version": 21,
+    "d_value": 2,
+    "n_value": 5,
+    "h_value": 6
+  }, 
+
+  { "name": "東京神話",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力A+",
+    "version": 25,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 8
+  }, 
+
+  { "name": "トリカゴノ鳳凰",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 20,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4
+  }, 
+
+  { "name": "津軽雪",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "version": 24,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 7
+  }, 
+
+  { "name": "∀",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
+  { "name": "廿",
+    "difficulty": "L",
+    "normal": "地力B",
+    "hard": "個人差B+",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 5,
+    "h_value": 5.5
+  }, 
+
+  { "name": "華麗なる大犬円舞曲",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 27,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7
+  }, 
+
+  { "name": "ワルツ第17番 ト短調\"大犬のワルツ\"",
+    "difficulty": "A",
+    "normal": "個人差D",
+    "hard": "個人差C",
+    "version": 17,
+    "d_value": 2,
+    "n_value": 2.5,
+    "h_value": 3.5
+  }, 
+
+  { "name": "超青少年ノ為ノ超多幸ナ超古典的超舞曲",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 22,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 7.5
+  }, 
 
   { "name": "海神",
     "difficulty": "A",
