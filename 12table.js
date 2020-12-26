@@ -1,11 +1,9 @@
-var len;
-
 $(function() {
   $("#tbl").tablesorter();
   
   $.getJSON("songs.json", function(data) {
     let tb = $("#tbl tbody");
-    len = data.length;
+    var len = data.length;
     for(let i = 0; i < len; i++) {
       let row = "";
       row += "<tr>";
@@ -18,7 +16,6 @@ $(function() {
       tb.append(row);
     }
     $("#tbl").trigger("update");
+    $("#number").html("<b>" + len + "譜面</b>");
   });
-
-  $("#number").html("<b>" + len + "譜面</b>");
 });
