@@ -19,4 +19,6 @@ $(function() {
     }
     $("#tbl").trigger("update");
   });
+
+  $("#number").html("<b>" + String(len) + "譜面</b>");
 });
