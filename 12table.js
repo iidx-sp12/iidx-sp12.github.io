@@ -1,5 +1,9 @@
 $(function() {
-  $("#tbl").tablesorter();
+  $("#tbl").tablesorter({
+    headers: {
+      0: { sorter: false },
+    }
+  });
   
   $.getJSON("songs.json", function(data) {
     let tb = $("#tbl tbody");
