@@ -221,12 +221,12 @@
 
   { "name": "BIGソムタム",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力D",
+    "hard": "地力E",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 3,
+    "h_value": 2 
   },
 
   { "name": "BITTER CHOCOLATE STRIKER",
@@ -921,12 +921,12 @@
 
   { "name": "Fire Beat",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差D",
+    "hard": "個人差D",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 2.5,
+    "h_value": 2.5
   }, 
 
   { "name": "FIRE FIRE",
