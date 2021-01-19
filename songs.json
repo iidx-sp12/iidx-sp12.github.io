@@ -179,6 +179,16 @@
     "h_value": 7 
   },
 
+  { "name": "ASIAN VIRTUAL REALITIES (MELTING TOGETHER IN DAZZLING DARKNESS)",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "B4U(BEMANI FOR YOU MIX)",
     "difficulty": "L",
     "normal": "地力A+",
@@ -2821,12 +2831,12 @@
 
   { "name": "Vitrum",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 5,
+    "h_value": 5 
   },   
 
   { "name": "voltississimo",
@@ -3391,12 +3401,12 @@
 
   { "name": "魔法のかくれんぼ",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差D",
+    "hard": "個人差B",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 2.5,
+    "h_value": 4.5
   }, 
 
   { "name": "#MAGiCVLGiRL_TRVP_B3VTZ",
