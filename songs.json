@@ -761,12 +761,12 @@
 
   { "name": "Empire of Fury",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差B+",
+    "hard": "地力A",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 5.5,
+    "h_value": 7
   }, 
 
   { "name": "encounter",
@@ -1559,6 +1559,16 @@
     "h_value": 3
   }, 
 
+  { "name": "MEGAERA",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
   { "name": "Megalara Garuda",
     "difficulty": "A",
     "normal": "地力D",
@@ -2071,12 +2081,12 @@
 
   { "name": "rommmo",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力B",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 4,
+    "h_value": 5 
   },  
 
   { "name": "ruin of opals",
@@ -2297,6 +2307,16 @@
     "d_value": 3,
     "n_value": 7,
     "h_value": 7 
+  }, 
+
+  { "name": "SOLID STATE SQUAD -RISEN RELIC REMIX-",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   }, 
 
   { "name": "Sounds Of Summer",
