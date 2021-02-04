@@ -3701,12 +3701,12 @@
 
   { "name": "水鏡の異界",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差B+",
+    "hard": "個人差A",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 5.5,
+    "h_value": 6.5
   }, 
 
   { "name": "たまゆら",
@@ -3791,12 +3791,12 @@
 
   { "name": "∀",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A+",
+    "hard": "地力A+",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 8,
+    "h_value": 8
   }, 
 
   { "name": "廿",
