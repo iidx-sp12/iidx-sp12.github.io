@@ -2541,12 +2541,12 @@
 
   { "name": "THE PEERLESS UNDER HEAVEN",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差A+",
+    "hard": "個人差S",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 7.5,
+    "h_value": 8.5 
   }, 
 
   { "name": "The Rebellion of Sequencer",
@@ -3031,12 +3031,12 @@
 
   { "name": "3!dolon Forc3",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B+",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 5,
+    "h_value": 6
   }, 
 
   { "name": "3y3s",
@@ -3571,12 +3571,12 @@
 
   { "name": "世界の果てに約束の凱歌を -ReUnion-",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A",
+    "hard": "地力A",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 7,
+    "h_value": 7
   }, 
 
   { "name": "千年ノ理",
