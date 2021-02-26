@@ -142,11 +142,11 @@
   { "name": "Apocalypse",
     "difficulty": "A",
     "normal": "地力E",
-    "hard": "地力F",
+    "hard": "地力E",
     "version": 24,
     "d_value": 2,
     "n_value": 2,
-    "h_value": 1 
+    "h_value": 2 
   },
 
   { "name": "Arabian Rave Night",
@@ -207,6 +207,16 @@
     "d_value": 2,
     "n_value": 7,
     "h_value": 7 
+  },
+
+  { "name": "Be quiet",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 11,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
   },
 
   { "name": "BEAT PRISONER",
@@ -1891,11 +1901,11 @@
 
   { "name": "Quakes",
     "difficulty": "A",
-    "normal": "地力A",
+    "normal": "地力A+",
     "hard": "地力A+",
     "version": 24,
     "d_value": 2,
-    "n_value": 7,
+    "n_value": 8,
     "h_value": 8 
   },    
 
@@ -2577,7 +2587,17 @@
     "d_value": 2,
     "n_value": 7.5,
     "h_value": 9.5
-  }, 
+  },
+
+  { "name": "thunder HOUSE NATION Remix",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 16,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
+  },
 
   { "name": "Thunderbolt",
     "difficulty": "A",
@@ -2831,12 +2851,12 @@
 
   { "name": "Viridian",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力C",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 4,
+    "h_value": 4 
   }, 
 
   { "name": "Visterhv",
