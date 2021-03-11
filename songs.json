@@ -491,11 +491,11 @@
 
   { "name": "CONTRACT",
     "difficulty": "L",
-    "normal": "個人差A+",
+    "normal": "地力A+",
     "hard": "地力A+",
     "version": 13,
     "d_value": 3,
-    "n_value": 7.5,
+    "n_value": 8,
     "h_value": 8 
   },  
 
@@ -551,11 +551,11 @@
 
   { "name": "DAY DREAM",
     "difficulty": "A",
-    "normal": "個人差C",
+    "normal": "地力C",
     "hard": "個人差B+",
     "version": 20,
     "d_value": 2,
-    "n_value": 3.5,
+    "n_value": 4,
     "h_value": 5.5
   }, 
 
@@ -1312,11 +1312,11 @@
   { "name": "invoker",
     "difficulty": "L",
     "normal": "個人差A+",
-    "hard": "個人差A+",
+    "hard": "地力A+",
     "version": 21,
     "d_value": 3,
     "n_value": 7.5,
-    "h_value": 7.5
+    "h_value": 8
   }, 
 
   { "name": "JOMANDA",
@@ -3027,6 +3027,16 @@
     "d_value": 2,
     "n_value": 3.5,
     "h_value": 4
+  }, 
+
+  { "name": "-65℃",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "199024club -Re:BounceKiller-",
