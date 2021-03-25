@@ -181,12 +181,12 @@
 
   { "name": "ASIAN VIRTUAL REALITIES (MELTING TOGETHER IN DAZZLING DARKNESS)",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B+",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 5,
+    "h_value": 6 
   },
 
   { "name": "B4U(BEMANI FOR YOU MIX)",
@@ -1257,6 +1257,16 @@
     "d_value": 2,
     "n_value": 8,
     "h_value": 8
+  }, 
+
+  { "name": "innocent revolver",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "Innocent Walls",
@@ -3089,6 +3099,16 @@
     "h_value": 4
   }, 
 
+  { "name": "バッド・スイーツ、バッド・ドリーム",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
   { "name": "アストライアの双皿",
     "difficulty": "A",
     "normal": "個人差B",
@@ -3261,12 +3281,12 @@
 
   { "name": "閠槞彁の願い",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A",
+    "hard": "地力A",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 7,
+    "h_value": 7 
   },
 
   { "name": "焱影",
