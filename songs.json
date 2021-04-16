@@ -259,6 +259,16 @@
     "h_value": 5 
   },
 
+  { "name": "BLACK or WHITE?",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "BLACK.by X-Cross Fade",
     "difficulty": "A",
     "normal": "個人差A+",
@@ -1007,6 +1017,16 @@
     "d_value": 2,
     "n_value": 3,
     "h_value": 4
+  }, 
+
+  { "name": "Ganymede",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 13,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "GENE",
@@ -2629,6 +2649,16 @@
     "h_value": 3 
   },  
 
+  { "name": "Tiempo Loco",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },  
+
   { "name": "Timepiece phase II",
     "difficulty": "A",
     "normal": "地力B",
@@ -3187,6 +3217,16 @@
     "d_value": 3,
     "n_value": 5,
     "h_value": 5
+  }, 
+
+  { "name": "ディスコルディア",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "童話回廊",
