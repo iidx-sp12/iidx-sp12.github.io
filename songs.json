@@ -1151,11 +1151,11 @@
 
   { "name": "GuNGNiR",
     "difficulty": "L",
-    "normal": "",
+    "normal": "地力S+",
     "hard": "地力S+",
     "version": 24,
     "d_value": 3,
-    "n_value": 0,
+    "n_value": 10,
     "h_value": 10
   },  
 
@@ -1601,12 +1601,12 @@
 
   { "name": "MEGAERA",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力S",
+    "hard": "地力S",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 9,
+    "h_value": 9
   }, 
 
   { "name": "Megalara Garuda",
