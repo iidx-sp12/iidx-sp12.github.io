@@ -2351,12 +2351,12 @@
 
   { "name": "SOLID STATE SQUAD -RISEN RELIC REMIX-",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力C",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 4,
+    "h_value": 4 
   }, 
 
   { "name": "Sounds Of Summer",
@@ -2621,12 +2621,12 @@
 
   { "name": "thunder HOUSE NATION Remix",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力C",
     "version": 16,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 4,
+    "h_value": 4 
   },
 
   { "name": "Thunderbolt",
