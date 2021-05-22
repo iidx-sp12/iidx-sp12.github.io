@@ -211,12 +211,12 @@
 
   { "name": "Be quiet",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差B+",
+    "hard": "個人差A+",
     "version": 11,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 5.5,
+    "h_value": 6.5 
   },
 
   { "name": "BEAT PRISONER",
@@ -1839,6 +1839,16 @@
     "h_value": 6.5 
   },
 
+  { "name": "Pārvatī",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "perditus†paradisus",
     "difficulty": "A",
     "normal": "地力S",
@@ -2418,6 +2428,16 @@
     "n_value": 1.5,
     "h_value": 2
   }, 
+
+  { "name": "STEEL NEEDLE",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
+  },    
 
   { "name": "StrayedCatz",
     "difficulty": "A",
@@ -3071,12 +3091,12 @@
 
   { "name": "-65℃",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A+",
+    "hard": "地力A+",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 8,
+    "h_value": 8
   }, 
 
   { "name": "199024club -Re:BounceKiller-",
@@ -3119,6 +3139,16 @@
     "h_value": 10
   }, 
 
+  { "name": "二人ノ廃城幽踊宴",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
   { "name": "紫陽花 -AZISAI-",
     "difficulty": "A",
     "normal": "地力D",
@@ -3131,12 +3161,12 @@
 
   { "name": "バッド・スイーツ、バッド・ドリーム",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差A",
+    "hard": "個人差A+",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 6.5,
+    "h_value": 7.5
   }, 
 
   { "name": "アストライアの双皿",
@@ -3599,7 +3629,7 @@
     "h_value": 6.5
   }, 
 
-  { "name": "ピアノ協奏曲第１番\"蠍火\"",
+  { "name": "ピアノ協奏曲第1番\"蠍火\"",
     "difficulty": "A",
     "normal": "個人差A",
     "hard": "地力A",
@@ -3897,6 +3927,16 @@
     "d_value": 3,
     "n_value": 5,
     "h_value": 5.5
+  }, 
+
+  { "name": "伐折羅-vajra-",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "華麗なる大犬円舞曲",
