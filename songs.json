@@ -1021,12 +1021,12 @@
 
   { "name": "Ganymede",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A",
+    "hard": "地力A+",
     "version": 13,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 7,
+    "h_value": 8
   }, 
 
   { "name": "GENE",
@@ -1281,12 +1281,12 @@
 
   { "name": "innocent revolver",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力B",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 4,
+    "h_value": 5
   }, 
 
   { "name": "Innocent Walls",
@@ -2671,12 +2671,12 @@
 
   { "name": "Tiempo Loco",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A",
+    "hard": "地力A",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 7,
+    "h_value": 7 
   },  
 
   { "name": "Timepiece phase II",
