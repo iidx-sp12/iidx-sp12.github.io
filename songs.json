@@ -261,12 +261,12 @@
 
   { "name": "BLACK or WHITE?",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A",
+    "hard": "地力A",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 7,
+    "h_value": 7 
   },
 
   { "name": "BLACK.by X-Cross Fade",
@@ -1841,12 +1841,12 @@
 
   { "name": "Pārvatī",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力E",
+    "hard": "地力E",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 2,
+    "h_value": 2 
   },
 
   { "name": "perditus†paradisus",
@@ -3251,12 +3251,12 @@
 
   { "name": "ディスコルディア",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差S",
+    "hard": "地力S+",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 8.5,
+    "h_value": 10
   }, 
 
   { "name": "童話回廊",
@@ -3297,6 +3297,16 @@
     "d_value": 2,
     "n_value": 2,
     "h_value": 2 
+  },
+
+  { "name": "ΕΛΠΙΣ",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 20,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
   },
 
   { "name": "魅惑のYUMMYスイーツ",
