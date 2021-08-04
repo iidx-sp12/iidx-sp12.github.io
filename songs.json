@@ -151,11 +151,11 @@
 
   { "name": "Arabian Rave Night",
     "difficulty": "L",
-    "normal": "地力B",
+    "normal": "地力C",
     "hard": "地力B",
     "version": 16,
     "d_value": 3,
-    "n_value": 5,
+    "n_value": 4,
     "h_value": 5
   },
 
@@ -412,11 +412,11 @@
   { "name": "Chrono Diver -PENDULUMs-",
     "difficulty": "A",
     "normal": "地力S",
-    "hard": "地力S",
+    "hard": "地力S+",
     "version": 22,
     "d_value": 2,
     "n_value": 9,
-    "h_value": 9 
+    "h_value": 10 
   }, 
 
   { "name": "cinder",
@@ -1237,6 +1237,16 @@
     "d_value": 2,
     "n_value": 4,
     "h_value": 4
+  }, 
+
+  { "name": "Ignis†Iræ",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "Illusionary Waterlily",
@@ -2269,6 +2279,16 @@
     "h_value": 10
   }, 
 
+  { "name": "Sinus Iridum",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  }, 
+
   { "name": "Sky High",
     "difficulty": "A",
     "normal": "地力B",
@@ -2431,12 +2451,12 @@
 
   { "name": "STEEL NEEDLE",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差A",
+    "hard": "地力S",
     "version": 15,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 6.5,
+    "h_value": 9 
   },    
 
   { "name": "StrayedCatz",
@@ -2552,11 +2572,11 @@
   { "name": "THE DAY OF JUBILATIONS",
     "difficulty": "A",
     "normal": "地力C",
-    "hard": "地力C",
+    "hard": "地力B",
     "version": 26,
     "d_value": 2,
     "n_value": 4,
-    "h_value": 4 
+    "h_value": 5
   }, 
 
   { "name": "THE DEEP STRIKER",
@@ -3141,12 +3161,12 @@
 
   { "name": "二人ノ廃城幽踊宴",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A",
+    "hard": "地力A+",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 7,
+    "h_value": 8
   }, 
 
   { "name": "紫陽花 -AZISAI-",
@@ -3941,12 +3961,12 @@
 
   { "name": "伐折羅-vajra-",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A",
+    "hard": "地力A",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 7,
+    "h_value": 7
   }, 
 
   { "name": "華麗なる大犬円舞曲",
