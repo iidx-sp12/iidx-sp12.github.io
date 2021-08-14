@@ -781,11 +781,11 @@
 
   { "name": "Empire of Fury",
     "difficulty": "A",
-    "normal": "個人差B+",
+    "normal": "地力B+",
     "hard": "地力A",
     "version": 28,
     "d_value": 2,
-    "n_value": 5.5,
+    "n_value": 6,
     "h_value": 7
   }, 
 
@@ -3061,11 +3061,11 @@
 
   { "name": "Y&Co. is dead or alive",
     "difficulty": "A",
-    "normal": "地力C",
+    "normal": "個人差B",
     "hard": "個人差S",
     "version": 16,
     "d_value": 2,
-    "n_value": 4,
+    "n_value": 4.5,
     "h_value": 8.5
   }, 
 
@@ -3077,6 +3077,16 @@
     "d_value": 2,
     "n_value": 6,
     "h_value": 6
+  }, 
+
+  { "name": "Ypsilon",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 27,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "ZEPHYRANTHES",
@@ -3561,11 +3571,11 @@
 
   { "name": "リリーゼと炎龍レーヴァテイン",
     "difficulty": "A",
-    "normal": "個人差C",
+    "normal": "地力B",
     "hard": "地力B",
     "version": 22,
     "d_value": 2,
-    "n_value": 3.5,
+    "n_value": 5,
     "h_value": 5
   },  
 
@@ -3857,6 +3867,16 @@
     "d_value": 2,
     "n_value": 5.5,
     "h_value": 6.5
+  }, 
+
+  { "name": "スーパー戦湯ババンバーン",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "たまゆら",
