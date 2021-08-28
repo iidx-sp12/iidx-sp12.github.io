@@ -119,6 +119,16 @@
     "h_value": 8 
   },
 
+  { "name": "Anisakis-somatic mutation type \"Forza\"-",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
+  },
+
   { "name": "Antigravity",
     "difficulty": "A",
     "normal": "地力B+",
@@ -216,7 +226,7 @@
     "version": 11,
     "d_value": 3,
     "n_value": 5.5,
-    "h_value": 6.5 
+    "h_value": 7.5 
   },
 
   { "name": "BEAT PRISONER",
@@ -707,6 +717,16 @@
     "d_value": 2,
     "n_value": 3,
     "h_value": 3
+  }, 
+
+  { "name": "DUAL STRIKER",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "DUE TOMORROW",
@@ -1597,6 +1617,16 @@
     "d_value": 2,
     "n_value": 10,
     "h_value": 10
+  }, 
+
+  { "name": "Marie Antoinette",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 16,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "Matt Silver",
