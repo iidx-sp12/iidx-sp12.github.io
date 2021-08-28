@@ -1,12 +1,7 @@
 #pagetop {
-    width: 50px;
-    height: 50px;
     position: fixed;
     right: 20px;
     bottom: 20px;
-    background: #585858;
-    opacity: 0.6;
-    border-radius: 50%;
 }
 
 #pagetop a {
@@ -14,6 +9,9 @@
     display: block;
     width: 50px;
     height: 50px;
+    background: #858585;
+    opacity: 0.6;
+    border-radius: 50%;
     text-decoration: none;
     text-align: center;
 }
@@ -32,4 +30,8 @@
     right: 0;
     left: 0;
     margin: auto;
+}
+
+#pagetop a:hover {
+    background: rgb(66, 66, 66);
 }
