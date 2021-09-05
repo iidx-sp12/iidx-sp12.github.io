@@ -529,6 +529,16 @@
     "h_value": 5 
   },  
 
+  { "name": "COSMIC RAY",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },  
+
   { "name": "Dances with Snow Fairies",
     "difficulty": "A",
     "normal": "地力B",
@@ -1519,6 +1529,16 @@
     "h_value": 5.5
   }, 
 
+  { "name": "Level 3",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
   { "name": "Liberation",
     "difficulty": "A",
     "normal": "地力E",
@@ -1567,6 +1587,16 @@
     "d_value": 2,
     "n_value": 2,
     "h_value": 2
+  }, 
+
+  { "name": "LOCUS OF THE TRAVEL",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "Lords Of The Roundtable",

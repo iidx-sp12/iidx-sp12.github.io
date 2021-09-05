@@ -35,3 +35,8 @@
 #pagetop a:hover {
     background: rgb(66, 66, 66);
 }
+
+#tbl th {
+    color: white;
+    background-color: green;
+}
