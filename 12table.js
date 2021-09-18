@@ -29,9 +29,9 @@ $(function() {
   // 100px スクロールしたらボタン表示
   $(window).scroll(function () {
      if ($(this).scrollTop() > 100) {
-          pagetop.fadeIn();
+        pagetop.fadeIn();
      } else {
-          pagetop.fadeOut();
+        pagetop.fadeOut();
      }
   });
   pagetop.click(function () {

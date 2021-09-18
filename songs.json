@@ -1271,12 +1271,12 @@
 
   { "name": "Ignis†Iræ",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A+",
+    "hard": "地力S",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 8,
+    "h_value": 9
   }, 
 
   { "name": "Illusionary Waterlily",
@@ -2227,6 +2227,16 @@
     "d_value": 2,
     "n_value": 0.5,
     "h_value": 1.5 
+  }, 
+
+  { "name": "SAMURAI-Scramble",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 24,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
   }, 
 
   { "name": "SAY BAY",
@@ -3391,12 +3401,12 @@
 
   { "name": "ΕΛΠΙΣ",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B+",
     "version": 20,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 5,
+    "h_value": 6 
   },
 
   { "name": "魅惑のYUMMYスイーツ",
