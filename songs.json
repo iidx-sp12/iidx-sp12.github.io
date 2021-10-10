@@ -2351,12 +2351,12 @@
 
   { "name": "Sinus Iridum",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力S",
+    "hard": "地力S+",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 9,
+    "h_value": 10 
   }, 
 
   { "name": "Sky High",
@@ -3151,12 +3151,12 @@
 
   { "name": "Ypsilon",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力D",
     "version": 27,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 4,
+    "h_value": 3
   }, 
 
   { "name": "ZEPHYRANTHES",
@@ -3941,12 +3941,12 @@
 
   { "name": "スーパー戦湯ババンバーン",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差C",
+    "hard": "地力C",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 3.5,
+    "h_value": 4
   }, 
 
   { "name": "たまゆら",
