@@ -339,6 +339,16 @@
     "h_value": 7 
   },
 
+  { "name": "BroGamer",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 24,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "Broken",
     "difficulty": "A",
     "normal": "地力D",
@@ -531,12 +541,12 @@
 
   { "name": "COSMIC RAY",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A",
+    "hard": "地力A",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 7,
+    "h_value": 7 
   },  
 
   { "name": "Dances with Snow Fairies",
@@ -731,12 +741,12 @@
 
   { "name": "DUAL STRIKER",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B+",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 5,
+    "h_value": 6
   }, 
 
   { "name": "DUE TOMORROW",
@@ -1651,12 +1661,12 @@
 
   { "name": "Marie Antoinette",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差B",
+    "hard": "個人差B",
     "version": 16,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 4.5,
+    "h_value": 4.5
   }, 
 
   { "name": "Matt Silver",
@@ -1807,6 +1817,16 @@
     "d_value": 2,
     "n_value": 8,
     "h_value": 8.5
+  },  
+
+  { "name": "One for All",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   },  
 
   { "name": "One More Lovely",
@@ -2819,6 +2839,16 @@
     "h_value": 4.5
   },  
 
+  { "name": "TOMAHAWK",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },  
+
   { "name": "TOXIC VIBRATION",
     "difficulty": "A",
     "normal": "地力B+",
@@ -2847,7 +2877,17 @@
     "d_value": 2,
     "n_value": 3,
     "h_value": 6 
-  },    
+  },   
+  
+  { "name": "Triple Cross",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },  
 
   { "name": "Triple Counter",
     "difficulty": "A",
@@ -3547,6 +3587,16 @@
     "d_value": 2,
     "n_value": 2,
     "h_value": 3
+  },
+
+  { "name": "君のハートにロックオン",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 19,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
   },
 
   { "name": "恋する☆宇宙戦争っ!!",
