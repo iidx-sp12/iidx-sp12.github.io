@@ -39,6 +39,16 @@
     "h_value": 3.5 
   },
 
+  { "name": "Aftermath",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "AIR RAID FROM THA UNDAGROUND",
     "difficulty": "L",
     "normal": "個人差A",
@@ -77,6 +87,16 @@
     "d_value": 2,
     "n_value": 8,
     "h_value": 9 
+  },
+
+  { "name": "ALTERNATOR",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   },
   
   { "name": "Amazing Mirage",
@@ -119,14 +139,24 @@
     "h_value": 8 
   },
 
-  { "name": "Anisakis-somatic mutation type \"Forza\"-",
-    "difficulty": "L",
+  { "name": "Angel's Ladder",
+    "difficulty": "A",
     "normal": "",
     "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
+  { "name": "Anisakis-somatic mutation type \"Forza\"-",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "地力A+",
     "version": 15,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 8,
+    "h_value": 8
   },
 
   { "name": "Antigravity",
@@ -341,12 +371,12 @@
 
   { "name": "BroGamer",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差S",
+    "hard": "地力S",
     "version": 24,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 8.5,
+    "h_value": 9 
   },
 
   { "name": "Broken",
@@ -679,6 +709,16 @@
     "h_value": 5
   }, 
 
+  { "name": "Don't believe the hype",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
   { "name": "DORNWALD ～Junge～",
     "difficulty": "A",
     "normal": "地力A",
@@ -979,6 +1019,16 @@
     "h_value": 9
   }, 
 
+  { "name": "Fegrix",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
   { "name": "fffff",
     "difficulty": "A",
     "normal": "地力D",
@@ -1097,6 +1147,16 @@
     "d_value": 2,
     "n_value": 2,
     "h_value": 1
+  }, 
+
+  { "name": "GiGaGaHell",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "Go Ahead!!",
@@ -1541,12 +1601,12 @@
 
   { "name": "Level 3",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差A+",
+    "hard": "個人差S",
     "version": 28,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 7.5,
+    "h_value": 8.5
   }, 
 
   { "name": "Liberation",
@@ -1599,14 +1659,24 @@
     "h_value": 2
   }, 
 
-  { "name": "LOCUS OF THE TRAVEL",
+  { "name": "LIVE DRIVING!! feat. 花たん",
     "difficulty": "A",
     "normal": "",
     "hard": "",
-    "version": 28,
+    "version": 29,
     "d_value": 2,
     "n_value": 0,
     "h_value": 0
+  }, 
+
+  { "name": "LOCUS OF THE TRAVEL",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "version": 28,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 8
   }, 
 
   { "name": "Lords Of The Roundtable",
@@ -1821,12 +1891,12 @@
 
   { "name": "One for All",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 5,
+    "h_value": 5
   },  
 
   { "name": "One More Lovely",
@@ -2027,6 +2097,16 @@
     "d_value": 2,
     "n_value": 3,
     "h_value": 4 
+  },  
+
+  { "name": "Purple Perplex",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   },  
 
   { "name": "Quakes",
@@ -2251,12 +2331,12 @@
 
   { "name": "SAMURAI-Scramble",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差S+",
+    "hard": "個人差S+",
     "version": 24,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 9.5,
+    "h_value": 9.5 
   }, 
 
   { "name": "SAY BAY",
@@ -2377,6 +2457,16 @@
     "d_value": 2,
     "n_value": 9,
     "h_value": 10 
+  }, 
+
+  { "name": "Skreaming for Salvation",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   }, 
 
   { "name": "Sky High",
@@ -2841,12 +2931,12 @@
 
   { "name": "TOMAHAWK",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差A+",
+    "hard": "個人差A+",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 7.5,
+    "h_value": 7.5 
   },  
 
   { "name": "TOXIC VIBRATION",
@@ -2881,12 +2971,12 @@
   
   { "name": "Triple Cross",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 5,
+    "h_value": 5 
   },  
 
   { "name": "Triple Counter",
@@ -3591,12 +3681,12 @@
 
   { "name": "君のハートにロックオン",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A",
+    "hard": "地力A+",
     "version": 19,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 7,
+    "h_value": 8 
   },
 
   { "name": "恋する☆宇宙戦争っ!!",
@@ -3738,6 +3828,16 @@
     "n_value": 4,
     "h_value": 4
   },  
+
+  { "name": "禊",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
 
   { "name": "嘆きの樹",
     "difficulty": "A",
