@@ -28,6 +28,16 @@
     "n_value": 5,
     "h_value": 5 
   },
+
+  { "name": "ABSOLUTE EVIL",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
     
   { "name": "Adularia",
     "difficulty": "A",
@@ -141,12 +151,12 @@
 
   { "name": "Angel's Ladder",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 5,
+    "h_value": 5 
   },
 
   { "name": "Anisakis-somatic mutation type \"Forza\"-",
@@ -287,6 +297,16 @@
     "d_value": 2,
     "n_value": 3,
     "h_value": 2 
+  },
+
+  { "name": "Binary Black Hole",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   },
 
   { "name": "BITTER CHOCOLATE STRIKER",
@@ -622,11 +642,11 @@
   { "name": "DAY DREAM",
     "difficulty": "A",
     "normal": "地力C",
-    "hard": "個人差B+",
+    "hard": "個人差A",
     "version": 20,
     "d_value": 2,
     "n_value": 4,
-    "h_value": 5.5
+    "h_value": 6.5
   }, 
 
   { "name": "DEADHEAT",
@@ -711,12 +731,12 @@
 
   { "name": "Don't believe the hype",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差A",
+    "hard": "個人差A+",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 6.5,
+    "h_value": 7.5
   }, 
 
   { "name": "DORNWALD ～Junge～",
@@ -991,11 +1011,11 @@
 
   { "name": "Fascination MAXX",
     "difficulty": "A",
-    "normal": "個人差E",
+    "normal": "個人差D",
     "hard": "個人差S",
     "version": 14,
     "d_value": 2,
-    "n_value": 1.5,
+    "n_value": 2.5,
     "h_value": 8.5
   }, 
 
@@ -1021,12 +1041,12 @@
 
   { "name": "Fegrix",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力D",
+    "hard": "地力C",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 3,
+    "h_value": 4
   }, 
 
   { "name": "fffff",
@@ -1151,12 +1171,12 @@
 
   { "name": "GiGaGaHell",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差B+",
+    "hard": "個人差A+",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 5.5,
+    "h_value": 7.5
   }, 
 
   { "name": "Go Ahead!!",
@@ -1661,12 +1681,12 @@
 
   { "name": "LIVE DRIVING!! feat. 花たん",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力C",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 4,
+    "h_value": 4
   }, 
 
   { "name": "LOCUS OF THE TRAVEL",
@@ -1809,6 +1829,17 @@
     "h_value": 1.5
   }, 
 
+  { "name": "n/a",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
+
   { "name": "NEO GENERATOR SEVEN",
     "difficulty": "A",
     "normal": "地力C",
@@ -1837,6 +1868,16 @@
     "d_value": 2,
     "n_value": 3.5,
     "h_value": 4.5
+  },  
+
+  { "name": "NEW GENERATION-もう、お前しか見えない-",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
   },  
 
   { "name": "Nightmare before oversleep",
@@ -2101,12 +2142,12 @@
 
   { "name": "Purple Perplex",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差A",
+    "hard": "個人差A+",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 6.5,
+    "h_value": 7.5 
   },  
 
   { "name": "Quakes",
@@ -2449,6 +2490,16 @@
     "h_value": 10
   }, 
 
+  { "name": "Silver Bullet",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  }, 
+
   { "name": "Sinus Iridum",
     "difficulty": "A",
     "normal": "地力S",
@@ -2461,12 +2512,12 @@
 
   { "name": "Skreaming for Salvation",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B+",
+    "hard": "個人差B+",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 6,
+    "h_value": 5.5 
   }, 
 
   { "name": "Sky High",
@@ -3339,6 +3390,16 @@
     "h_value": 6.5
   },   
 
+  { "name": "2 Beasts Unchained",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },  
+
   { "name": "255",
     "difficulty": "A",
     "normal": "地力A",
@@ -3919,6 +3980,16 @@
     "h_value": 5
   }, 
 
+  { "name": "逆月",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
   { "name": "桜",
     "difficulty": "A",
     "normal": "個人差E",
@@ -4112,11 +4183,11 @@
   { "name": "天空の夜明け",
     "difficulty": "A",
     "normal": "地力A",
-    "hard": "地力A",
+    "hard": "地力A+",
     "version": 19,
     "d_value": 2,
     "n_value": 7,
-    "h_value": 7
+    "h_value": 8
   }, 
 
   { "name": "真 地獄超特急 -HELL or HELL-",
