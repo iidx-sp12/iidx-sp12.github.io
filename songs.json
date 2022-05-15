@@ -301,12 +301,12 @@
 
   { "name": "Binary Black Hole",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力S",
+    "hard": "地力S",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 9,
+    "h_value": 9 
   },
 
   { "name": "BITTER CHOCOLATE STRIKER",
@@ -1087,6 +1087,16 @@
     "d_value": 2,
     "n_value": 4.5,
     "h_value": 6.5
+  }, 
+
+  { "name": "Flying Castle",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "Friction[!]Function",
@@ -2070,6 +2080,16 @@
     "h_value": 3 
   },
 
+  { "name": "Phoenix",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 19,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "Plan 8",
     "difficulty": "A",
     "normal": "個人差S+",
@@ -2160,6 +2180,16 @@
     "h_value": 7.5 
   },  
 
+  { "name": "Push on Beats!～音ゲの国のeX-ストリーマー～",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5 
+  },  
+
   { "name": "Quakes",
     "difficulty": "A",
     "normal": "地力A+",
@@ -2218,6 +2248,16 @@
     "d_value": 2,
     "n_value": 4,
     "h_value": 6.5 
+  }, 
+
+  { "name": "RAGE feat.H14 of LEONAIR",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   }, 
 
   { "name": "RAIN",
@@ -2342,12 +2382,12 @@
 
   { "name": "REVOLVER",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A+",
+    "hard": "個人差S",
     "version": 25,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 8,
+    "h_value": 8.5 
   }, 
 
   { "name": "Ristaccia",
@@ -2450,6 +2490,16 @@
     "h_value": 3.5 
   }, 
 
+  { "name": "Scripted Connection⇒ A mix",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 12,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
+  }, 
+
   { "name": "Secrets",
     "difficulty": "L",
     "normal": "地力A",
@@ -2512,12 +2562,12 @@
 
   { "name": "Silver Bullet",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力D",
+    "hard": "地力C",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 3,
+    "h_value": 4 
   }, 
 
   { "name": "Sinus Iridum",
@@ -2558,6 +2608,16 @@
     "d_value": 2,
     "n_value": 5,
     "h_value": 6 
+  }, 
+
+  { "name": "Smalt #28598F",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   }, 
 
   { "name": "Smashing Wedge",
@@ -3290,6 +3350,16 @@
     "h_value": 6 
   }, 
 
+  { "name": "WHA",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  }, 
+
   { "name": "WONDER WALKER",
     "difficulty": "A",
     "normal": "地力C",
@@ -3412,12 +3482,12 @@
 
   { "name": "2 Beasts Unchained",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差A",
+    "hard": "地力A",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 6.5,
+    "h_value": 7
   },  
 
   { "name": "255",
@@ -3458,6 +3528,16 @@
     "d_value": 2,
     "n_value": 7,
     "h_value": 8
+  }, 
+
+  { "name": "天邪鬼",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "紫陽花 -AZISAI-",
@@ -3702,12 +3782,12 @@
 
   { "name": "烽火連天の刃",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A",
+    "hard": "個人差A",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 7,
+    "h_value": 6.5
   },
 
   { "name": "お米の美味しい炊き方、そしてお米を食べることによるその効果。",
@@ -4012,12 +4092,12 @@
 
   { "name": "逆月",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差B+",
+    "hard": "地力B+",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 5.5,
+    "h_value": 6
   }, 
 
   { "name": "桜",
