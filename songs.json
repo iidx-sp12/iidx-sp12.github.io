@@ -31,12 +31,12 @@
 
   { "name": "ABSOLUTE EVIL",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A",
+    "hard": "地力A",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 7,
+    "h_value": 7 
   },
     
   { "name": "Adularia",
@@ -922,11 +922,11 @@
   { "name": "EROICA",
     "difficulty": "A",
     "normal": "個人差S",
-    "hard": "個人差S+",
+    "hard": "地力S+",
     "version": 27,
     "d_value": 2,
     "n_value": 8.5,
-    "h_value": 9.5
+    "h_value": 10
   }, 
 
   { "name": "EVANESCENT",
@@ -2100,14 +2100,14 @@
     "h_value": 9.5 
   },
 
-  { "name": "PLASMA SOUL NIGHT feat. Nana Takahashi/709sec.",
+  { "name": "PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B+",
+    "hard": "地力B+",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 6,
+    "h_value": 6 
   },
 
   { "name": "PLEASE DON'T GO",
@@ -2492,12 +2492,12 @@
 
   { "name": "Scripted Connection⇒ A mix",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差A",
+    "hard": "地力A",
     "version": 12,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 6.5,
+    "h_value": 7 
   }, 
 
   { "name": "Secrets",
@@ -3008,6 +3008,16 @@
     "d_value": 2,
     "n_value": 7,
     "h_value": 7 
+  },  
+
+  { "name": "Time to Air",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
   },  
 
   { "name": "Timepiece phase II",
@@ -4417,7 +4427,7 @@
     "version": 22,
     "d_value": 3,
     "n_value": 7,
-    "h_value": 7.5
+    "h_value": 8
   }, 
 
   { "name": "海神",
