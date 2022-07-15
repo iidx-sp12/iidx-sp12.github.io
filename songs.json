@@ -1091,12 +1091,12 @@
 
   { "name": "Flying Castle",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B+",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 5,
+    "h_value": 6
   }, 
 
   { "name": "Friction[!]Function",
@@ -1841,12 +1841,12 @@
 
   { "name": "n/a",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力S+",
+    "hard": "地力S+",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 10,
+    "h_value": 10
   }, 
 
 
@@ -2082,12 +2082,12 @@
 
   { "name": "Phoenix",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力S",
+    "hard": "地力S",
     "version": 19,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 9,
+    "h_value": 9 
   },
 
   { "name": "Plan 8",
@@ -2943,11 +2943,11 @@
   { "name": "The Rebellion of Sequencer",
     "difficulty": "A",
     "normal": "地力A",
-    "hard": "地力B+",
+    "hard": "地力A",
     "version": 26,
     "d_value": 2,
     "n_value": 7,
-    "h_value": 6 
+    "h_value": 7 
   }, 
 
   { "name": "The Sampling Paradise",
@@ -3179,6 +3179,16 @@
     "n_value": 5,
     "h_value": 6 
   },    
+
+  { "name": "Umbral",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 24,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
+  },   
 
   { "name": "Unbelief",
     "difficulty": "A",
@@ -3453,11 +3463,11 @@
   { "name": "Zirkfied",
     "difficulty": "A",
     "normal": "個人差A+",
-    "hard": "地力A",
+    "hard": "地力A+",
     "version": 20,
     "d_value": 2,
     "n_value": 7.5,
-    "h_value": 7
+    "h_value": 8
   }, 
 
   { "name": "ZZ",
@@ -3542,12 +3552,12 @@
 
   { "name": "天邪鬼",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力D",
+    "hard": "地力C",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 3,
+    "h_value": 4
   }, 
 
   { "name": "紫陽花 -AZISAI-",
@@ -3940,6 +3950,16 @@
     "h_value": 3
   },  
 
+  { "name": "ピアノ独奏無言歌 \"灰燼\"",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
   { "name": "疾風迅雷",
     "difficulty": "A",
     "normal": "地力C",
@@ -4063,11 +4083,11 @@
   { "name": "音楽",
     "difficulty": "A",
     "normal": "個人差A",
-    "hard": "個人差A",
+    "hard": "個人差A+",
     "version": 20,
     "d_value": 2,
     "n_value": 6.5,
-    "h_value": 6.5
+    "h_value": 7.5
   }, 
 
   { "name": "ピアノ協奏曲第1番\"蠍火\"",
