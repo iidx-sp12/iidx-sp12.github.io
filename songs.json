@@ -172,11 +172,11 @@
   { "name": "Antigravity",
     "difficulty": "A",
     "normal": "地力B+",
-    "hard": "地力A",
+    "hard": "個人差A",
     "version": 25,
     "d_value": 2,
     "n_value": 6,
-    "h_value": 7 
+    "h_value": 6.5 
   },
 
   { "name": "AO-1",
@@ -218,6 +218,16 @@
     "n_value": 2,
     "h_value": 2 
   },
+
+  { "name": "Arkadia",
+  "difficulty": "A",
+  "normal": "",
+  "hard": "",
+  "version": 29,
+  "d_value": 2,
+  "n_value": 0,
+  "h_value": 0 
+},
 
   { "name": "Artist",
     "difficulty": "A",
@@ -1259,6 +1269,16 @@
     "h_value": 4
   }, 
 
+  { "name": "GRAVITON",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
   { "name": "GRID KNIGHT",
     "difficulty": "L",
     "normal": "個人差E",
@@ -1318,6 +1338,16 @@
     "n_value": 5,
     "h_value": 4
   }, 
+
+  { "name": "hard-wired",
+  "difficulty": "A",
+  "normal": "",
+  "hard": "",
+  "version": 29,
+  "d_value": 2,
+  "n_value": 0,
+  "h_value": 0
+}, 
 
   { "name": "Highcharge Divolt",
     "difficulty": "A",
@@ -2010,6 +2040,16 @@
     "h_value": 5
   }, 
 
+  { "name": "Override",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 27,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
   { "name": "Painful Fate",
     "difficulty": "A",
     "normal": "地力A",
@@ -2252,12 +2292,12 @@
 
   { "name": "RAGE feat.H14 of LEONAIR",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差S+",
+    "hard": "個人差S+",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 9.5,
+    "h_value": 9.5 
   }, 
 
   { "name": "RAIN",
@@ -2612,12 +2652,12 @@
 
   { "name": "Smalt #28598F",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "個人差B",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 5,
+    "h_value": 4.5
   }, 
 
   { "name": "Smashing Wedge",
@@ -2843,11 +2883,11 @@
   { "name": "TECHNO Style Essentials",
     "difficulty": "A",
     "normal": "地力C",
-    "hard": "個人差C",
+    "hard": "地力C",
     "version": 27,
     "d_value": 2,
     "n_value": 4,
-    "h_value": 3.5 
+    "h_value": 4 
   }, 
 
   { "name": "THANK YOU FOR PLAYING",
@@ -3012,12 +3052,12 @@
 
   { "name": "Time to Air",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差S",
+    "hard": "地力S",
     "version": 15,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 8.5,
+    "h_value": 9 
   },  
 
   { "name": "Timepiece phase II",
@@ -3372,12 +3412,12 @@
 
   { "name": "WHA",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差S",
+    "hard": "個人差S",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 8.5,
+    "h_value": 8.5 
   }, 
 
   { "name": "WONDER WALKER",
@@ -3780,6 +3820,16 @@
     "h_value": 7 
   },
 
+  { "name": "華爛漫-Flowers-",
+  "difficulty": "L",
+  "normal": "",
+  "hard": "",
+  "version": 15,
+  "d_value": 3,
+  "n_value": 0,
+  "h_value": 0 
+},
+
   { "name": "焱影",
     "difficulty": "A",
     "normal": "個人差B+",
@@ -3952,12 +4002,12 @@
 
   { "name": "ピアノ独奏無言歌 \"灰燼\"",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差A+",
+    "hard": "個人差S",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 7.5,
+    "h_value": 8.5
   }, 
 
   { "name": "疾風迅雷",
@@ -4100,7 +4150,7 @@
     "h_value": 7
   }, 
 
-  { "name": "ピアノ協奏曲第１番\"蠍火\" (BlackY Remix)",
+  { "name": "ピアノ協奏曲第1番\"蠍火\" (BlackY Remix)",
     "difficulty": "A",
     "normal": "地力A",
     "hard": "地力A",
@@ -4209,6 +4259,16 @@
     "n_value": 1.5,
     "h_value": 1.5
   }, 
+
+  { "name": "雪上断火",
+  "difficulty": "A",
+  "normal": "",
+  "hard": "",
+  "version": 29,
+  "d_value": 2,
+  "n_value": 0,
+  "h_value": 0
+}, 
 
   { "name": "灼熱Beach Side Bunny",
     "difficulty": "A",
