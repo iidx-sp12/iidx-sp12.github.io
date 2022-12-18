@@ -51,11 +51,11 @@
 
   { "name": "Aftermath",
     "difficulty": "A",
-    "normal": "個人差C",
+    "normal": "地力C",
     "hard": "地力B",
     "version": 29,
     "d_value": 2,
-    "n_value": 3.5,
+    "n_value": 4,
     "h_value": 5 
   },
 
@@ -169,6 +169,16 @@
     "h_value": 8
   },
 
+  { "name": "anthracene",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "Antigravity",
     "difficulty": "A",
     "normal": "地力B+",
@@ -221,12 +231,12 @@
 
   { "name": "Arkadia",
   "difficulty": "A",
-  "normal": "",
-  "hard": "",
+  "normal": "地力B",
+  "hard": "地力B+",
   "version": 29,
   "d_value": 2,
-  "n_value": 0,
-  "h_value": 0 
+  "n_value": 5,
+  "h_value": 6 
 },
 
   { "name": "Artist",
@@ -249,6 +259,16 @@
     "h_value": 6 
   },
 
+  { "name": "B.O.D.Y.",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "B4U(BEMANI FOR YOU MIX)",
     "difficulty": "L",
     "normal": "地力A+",
@@ -257,6 +277,16 @@
     "d_value": 3,
     "n_value": 8,
     "h_value": 8 
+  },
+
+  { "name": "Bad Encryption",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   },
 
   { "name": "Bad Maniacs",
@@ -1092,21 +1122,21 @@
   { "name": "Flashes",
     "difficulty": "A",
     "normal": "個人差B",
-    "hard": "個人差A",
+    "hard": "地力A",
     "version": 22,
     "d_value": 2,
     "n_value": 4.5,
-    "h_value": 6.5
+    "h_value": 7
   }, 
 
   { "name": "Flying Castle",
     "difficulty": "A",
     "normal": "地力B",
-    "hard": "地力B+",
+    "hard": "地力B",
     "version": 29,
     "d_value": 2,
     "n_value": 5,
-    "h_value": 6
+    "h_value": 5
   }, 
 
   { "name": "Friction[!]Function",
@@ -1271,12 +1301,12 @@
 
   { "name": "GRAVITON",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B+",
+    "hard": "地力B+",
     "version": 29,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 6,
+    "h_value": 6
   }, 
 
   { "name": "GRID KNIGHT",
@@ -1340,14 +1370,24 @@
   }, 
 
   { "name": "hard-wired",
-  "difficulty": "A",
-  "normal": "",
-  "hard": "",
-  "version": 29,
-  "d_value": 2,
-  "n_value": 0,
-  "h_value": 0
-}, 
+    "difficulty": "A",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 29,
+    "d_value": 2,
+    "n_value": 9,
+    "h_value": 9
+  }, 
+
+  { "name": "Hat Surprise (Season 2)",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
 
   { "name": "Highcharge Divolt",
     "difficulty": "A",
@@ -1367,6 +1407,16 @@
     "d_value": 2,
     "n_value": 5.5,
     "h_value": 7
+  }, 
+
+  { "name": "I",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "ICARUS",
@@ -1408,6 +1458,16 @@
     "n_value": 8,
     "h_value": 9
   }, 
+
+  { "name": "Illegal Function Call",
+    "difficulty": "L",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 20,
+    "d_value": 3,
+    "n_value": 10,
+    "h_value": 10
+  },   
 
   { "name": "Illusionary Waterlily",
     "difficulty": "A",
@@ -1759,6 +1819,16 @@
     "h_value": 5
   }, 
 
+  { "name": "LOUDER ROLLING THUNDER",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "M4K3 1T B0UNC3",
     "difficulty": "A",
     "normal": "地力B",
@@ -1839,6 +1909,16 @@
     "h_value": 7
   }, 
 
+  { "name": "Meissa",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
   { "name": "Monopole.",
     "difficulty": "A",
     "normal": "地力B",
@@ -1879,6 +1959,15 @@
     "h_value": 10
   }, 
 
+  { "name": "No Border",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
 
   { "name": "NEO GENERATOR SEVEN",
     "difficulty": "A",
@@ -2042,12 +2131,12 @@
 
   { "name": "Override",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力S",
+    "hard": "地力S",
     "version": 27,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 9,
+    "h_value": 9
   }, 
 
   { "name": "Painful Fate",
@@ -2098,6 +2187,16 @@
     "d_value": 2,
     "n_value": 2,
     "h_value": 2 
+  },
+
+  { "name": "Peaktime Booster",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   },
 
   { "name": "perditus†paradisus",
@@ -2430,6 +2529,16 @@
     "h_value": 8.5 
   }, 
 
+  { "name": "RINИE",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },   
+
   { "name": "Ristaccia",
     "difficulty": "A",
     "normal": "地力F",
@@ -2573,11 +2682,11 @@
   { "name": "Shooting Fireball",
     "difficulty": "A",
     "normal": "地力B+",
-    "hard": "地力B",
+    "hard": "地力B+",
     "version": 22,
     "d_value": 2,
     "n_value": 6,
-    "h_value": 5 
+    "h_value": 6
   }, 
 
   { "name": "Sigmund",
@@ -2890,6 +2999,16 @@
     "h_value": 4 
   }, 
 
+  { "name": "TECHNOPHOBIA",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  }, 
+
   { "name": "THANK YOU FOR PLAYING",
     "difficulty": "L",
     "normal": "地力C",
@@ -2968,6 +3087,16 @@
     "d_value": 2,
     "n_value": 6,
     "h_value": 5 
+  }, 
+
+  { "name": "The Limbo",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 19,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
   }, 
 
   { "name": "THE PEERLESS UNDER HEAVEN",
@@ -3222,12 +3351,12 @@
 
   { "name": "Umbral",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力D",
+    "hard": "地力C",
     "version": 24,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 3,
+    "h_value": 4 
   },   
 
   { "name": "Unbelief",
@@ -3348,6 +3477,16 @@
     "d_value": 2,
     "n_value": 5,
     "h_value": 5 
+  },  
+  
+  { "name": "VOLAQUAS",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   },   
 
   { "name": "voltississimo",
@@ -3820,15 +3959,35 @@
     "h_value": 7 
   },
 
+  { "name": "儚キ戀ノ幻想譚",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "華爛漫-Flowers-",
-  "difficulty": "L",
-  "normal": "",
-  "hard": "",
-  "version": 15,
-  "d_value": 3,
-  "n_value": 0,
-  "h_value": 0 
-},
+    "difficulty": "L",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 4,
+    "h_value": 4 
+  },
+
+  { "name": "ハイテックトキオ",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
+  },
 
   { "name": "焱影",
     "difficulty": "A",
@@ -3878,6 +4037,16 @@
     "d_value": 2,
     "n_value": 3,
     "h_value": 4
+  },
+
+  { "name": "[ ]DENTITY",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   },
 
   { "name": "イザナミノナゲキ",
@@ -4090,6 +4259,16 @@
     "h_value": 4
   }, 
 
+  { "name": "ミラージュ･レジデンス",
+    "difficulty": "L",
+    "normal": "個人差B",
+    "hard": "個人差B+",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 4.5,
+    "h_value": 5.5
+  }, 
+
   { "name": "嘆きの樹",
     "difficulty": "A",
     "normal": "地力S",
@@ -4143,11 +4322,11 @@
   { "name": "ピアノ協奏曲第1番\"蠍火\"",
     "difficulty": "A",
     "normal": "個人差A",
-    "hard": "地力A",
+    "hard": "個人差A",
     "version": 11,
     "d_value": 2,
     "n_value": 6.5,
-    "h_value": 7
+    "h_value": 6.5
   }, 
 
   { "name": "ピアノ協奏曲第1番\"蠍火\" (BlackY Remix)",
@@ -4262,12 +4441,12 @@
 
   { "name": "雪上断火",
   "difficulty": "A",
-  "normal": "",
-  "hard": "",
+  "normal": "個人差B",
+  "hard": "個人差B+",
   "version": 29,
   "d_value": 2,
-  "n_value": 0,
-  "h_value": 0
+  "n_value": 4.5,
+  "h_value": 5.5
 }, 
 
   { "name": "灼熱Beach Side Bunny",
@@ -4419,6 +4598,16 @@
     "n_value": 5,
     "h_value": 6
   }, 
+
+  { "name": "Ōu Legends",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
 
   { "name": "東京神話",
     "difficulty": "A",
