@@ -171,12 +171,12 @@
 
   { "name": "anthracene",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力B+",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 4,
+    "h_value": 6 
   },
 
   { "name": "Antigravity",
@@ -281,12 +281,12 @@
 
   { "name": "Bad Encryption",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A+",
+    "hard": "地力S",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 8,
+    "h_value": 9 
   },
 
   { "name": "Bad Maniacs",
@@ -327,6 +327,16 @@
     "d_value": 3,
     "n_value": 3,
     "h_value": 3 
+  },
+
+  { "name": "Beyond Evolution",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   },
 
   { "name": "BIGソムタム",
@@ -459,6 +469,16 @@
     "h_value": 5 
   },
 
+  { "name": "Burning Flame",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "Candy Galy",
     "difficulty": "A",
     "normal": "地力B",
@@ -507,6 +527,16 @@
     "d_value": 2,
     "n_value": 2.5,
     "h_value": 3.5 
+  }, 
+
+  { "name": "Chaotoxin",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   }, 
 
   { "name": "CHRONO DIVER -NORNIR-",
@@ -759,6 +789,16 @@
     "h_value": 9.5
   },
 
+  { "name": "dica dica",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
+
   { "name": "DOMINION",
     "difficulty": "A",
     "normal": "地力D",
@@ -897,6 +937,16 @@
     "d_value": 2,
     "n_value": 8.5,
     "h_value": 8.5
+  }, 
+
+  { "name": "Elektrick U-Phoria",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "Elemental Creation",
@@ -1227,6 +1277,16 @@
     "d_value": 2,
     "n_value": 5.5,
     "h_value": 7.5
+  }, 
+
+  { "name": "glacia",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "Go Ahead!!",
@@ -1637,6 +1697,16 @@
     "d_value": 2,
     "n_value": 4,
     "h_value": 5
+  },
+
+  { "name": "kors k's How to make OTOGE CORE 「LONG」",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   },  
 
   { "name": "Kung-fu Empire",
@@ -1731,12 +1801,12 @@
 
   { "name": "Level 4",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差A+",
+    "hard": "個人差S",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 7.5,
+    "h_value": 8.5
   }, 
 
   { "name": "Liberation",
@@ -1831,12 +1901,12 @@
 
   { "name": "LOUDER ROLLING THUNDER",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A+",
+    "hard": "地力A+",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 8,
+    "h_value": 8 
   },
 
   { "name": "M4K3 1T B0UNC3",
@@ -2071,12 +2141,12 @@
 
   { "name": "ONE AND ONLY",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力D",
+    "hard": "地力C",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 3,
+    "h_value": 4 
   }, 
 
   { "name": "One for All",
@@ -2211,12 +2281,12 @@
 
   { "name": "Peaktime Booster",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差B+",
+    "hard": "個人差A",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 5.5,
+    "h_value": 6.5
   },
 
   { "name": "perditus†paradisus",
@@ -2971,12 +3041,12 @@
 
   { "name": "Super Freak",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力C",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 4,
+    "h_value": 4 
   }, 
 
   { "name": "Super Rush",
@@ -2991,12 +3061,12 @@
 
   { "name": "Sweet Clapper",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力E",
+    "hard": "地力E",
     "version": 24,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 2,
+    "h_value": 2
   },
 
   { "name": "Symmetry",
@@ -3041,12 +3111,12 @@
 
   { "name": "TECHNOPHOBIA",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差A",
+    "hard": "地力A+",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 6.5,
+    "h_value": 8 
   }, 
 
   { "name": "THANK YOU FOR PLAYING",
@@ -3081,12 +3151,12 @@
 
   { "name": "The Clown of 24stairs",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A+",
+    "hard": "地力A+",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 8,
+    "h_value": 8
   }, 
 
   { "name": "THE DAY OF JUBILATIONS",
@@ -3531,12 +3601,12 @@
   
   { "name": "VOLAQUAS",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A",
+    "hard": "地力A",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 7,
+    "h_value": 7 
   },   
 
   { "name": "voltississimo",
@@ -3871,12 +3941,12 @@
 
   { "name": "デモーニッシュ",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A+",
+    "hard": "地力A",
     "version": 29,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 8,
+    "h_value": 7
   }, 
 
   { "name": "シムルグの目醒め",
@@ -3917,6 +3987,16 @@
     "d_value": 2,
     "n_value": 5,
     "h_value": 4
+  }, 
+
+  { "name": "栄冠のカンパネラ",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "駅猫のワルツ",
@@ -4021,12 +4101,12 @@
 
   { "name": "儚キ戀ノ幻想譚",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 5,
+    "h_value": 5 
   },
 
   { "name": "華爛漫-Flowers-",
@@ -4101,12 +4181,12 @@
 
   { "name": "[ ]DENTITY",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A+",
+    "hard": "地力A+",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 8,
+    "h_value": 8 
   },
 
   { "name": "イザナミノナゲキ",
@@ -4288,6 +4368,16 @@
     "n_value": 5,
     "h_value": 5
   },  
+
+  { "name": "龍王の霊廟(Mausoleum Of The Primal Dragon)",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 26,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
+  }, 
 
   { "name": "冥",
     "difficulty": "A",
