@@ -331,12 +331,12 @@
 
   { "name": "Beyond Evolution",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力S+",
+    "hard": "地力S+",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 10,
+    "h_value": 10
   },
 
   { "name": "BIGソムタム",
@@ -347,6 +347,16 @@
     "d_value": 2,
     "n_value": 3,
     "h_value": 2 
+  },
+
+  { "name": "BIGWAVERS",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   },
 
   { "name": "Binary Black Hole",
@@ -471,12 +481,12 @@
 
   { "name": "Burning Flame",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B+",
     "version": 28,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 5,
+    "h_value": 6 
   },
 
   { "name": "Candy Galy",
@@ -531,12 +541,12 @@
 
   { "name": "Chaotoxin",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力B",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 4,
+    "h_value": 5 
   }, 
 
   { "name": "CHRONO DIVER -NORNIR-",
@@ -791,21 +801,21 @@
 
   { "name": "dica dica",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差D",
+    "hard": "個人差C",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 2.5,
+    "h_value": 3.5
   },
 
   { "name": "DOMINION",
     "difficulty": "A",
-    "normal": "地力D",
+    "normal": "地力C",
     "hard": "地力B",
     "version": 17,
     "d_value": 2,
-    "n_value": 3,
+    "n_value": 4,
     "h_value": 5
   }, 
 
@@ -941,12 +951,12 @@
 
   { "name": "Elektrick U-Phoria",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A",
+    "hard": "地力A+",
     "version": 21,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 7,
+    "h_value": 8
   }, 
 
   { "name": "Elemental Creation",
@@ -1189,6 +1199,16 @@
     "h_value": 5
   }, 
 
+  { "name": "four pieces of heaven",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 15,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
   { "name": "Friction[!]Function",
     "difficulty": "A",
     "normal": "地力C",
@@ -1281,12 +1301,12 @@
 
   { "name": "glacia",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力E",
+    "hard": "地力E",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 2,
+    "h_value": 2
   }, 
 
   { "name": "Go Ahead!!",
@@ -1701,12 +1721,12 @@
 
   { "name": "kors k's How to make OTOGE CORE 「LONG」",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B+",
+    "hard": "地力A",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 6,
+    "h_value": 7
   },  
 
   { "name": "Kung-fu Empire",
@@ -1842,11 +1862,11 @@
   { "name": "Little Little Princess",
     "difficulty": "L",
     "normal": "地力B",
-    "hard": "地力C",
+    "hard": "地力B",
     "version": 12,
     "d_value": 3,
     "n_value": 5,
-    "h_value": 4
+    "h_value": 5
   }, 
 
   { "name": "Little Star",
@@ -1957,6 +1977,16 @@
     "d_value": 2,
     "n_value": 3,
     "h_value": 3
+  }, 
+
+  { "name": "MAX 300",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 7,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "MEGAERA",
@@ -2272,11 +2302,11 @@
   { "name": "Pārvatī",
     "difficulty": "A",
     "normal": "地力E",
-    "hard": "地力E",
+    "hard": "地力D",
     "version": 28,
     "d_value": 2,
     "n_value": 2,
-    "h_value": 2 
+    "h_value": 3 
   },
 
   { "name": "Peaktime Booster",
@@ -2852,11 +2882,11 @@
   { "name": "Smalt #28598F",
     "difficulty": "A",
     "normal": "地力B",
-    "hard": "個人差B",
+    "hard": "地力C",
     "version": 29,
     "d_value": 2,
     "n_value": 5,
-    "h_value": 4.5
+    "h_value": 4
   }, 
 
   { "name": "Smashing Wedge",
@@ -2938,6 +2968,16 @@
     "n_value": 4,
     "h_value": 4 
   }, 
+
+  { "name": "Somnidiscotheque",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
 
   { "name": "Sounds Of Summer",
     "difficulty": "A",
@@ -3302,11 +3342,11 @@
   { "name": "Time to Air",
     "difficulty": "L",
     "normal": "個人差S",
-    "hard": "地力S",
+    "hard": "個人差S",
     "version": 15,
     "d_value": 3,
     "n_value": 8.5,
-    "h_value": 9 
+    "h_value": 8.5
   },  
 
   { "name": "Timepiece phase II",
@@ -3569,6 +3609,16 @@
     "h_value": 4 
   }, 
 
+  { "name": "Violet Pulse",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 23,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "Viridian",
     "difficulty": "A",
     "normal": "地力C",
@@ -3699,6 +3749,16 @@
     "h_value": 6 
   }, 
 
+  { "name": "Xerulean",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  }, 
+
   { "name": "Xlø",
     "difficulty": "A",
     "normal": "地力B",
@@ -3772,11 +3832,11 @@
   { "name": "ZZ",
     "difficulty": "A",
     "normal": "個人差C",
-    "hard": "地力C",
+    "hard": "地力D",
     "version": 22,
     "d_value": 2,
     "n_value": 3.5,
-    "h_value": 4
+    "h_value": 3
   }, 
 
   { "name": "-65℃",
@@ -3991,12 +4051,12 @@
 
   { "name": "栄冠のカンパネラ",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力S",
+    "hard": "地力S",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 9,
+    "h_value": 9
   }, 
 
   { "name": "駅猫のワルツ",
@@ -4087,6 +4147,16 @@
     "d_value": 2,
     "n_value": 8,
     "h_value": 8 
+  },
+
+  { "name": "神のシナリオ",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   },
 
   { "name": "閠槞彁の願い",
@@ -4371,12 +4441,12 @@
 
   { "name": "龍王の霊廟(Mausoleum Of The Primal Dragon)",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力C",
     "version": 26,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 4,
+    "h_value": 4
   }, 
 
   { "name": "冥",
@@ -4501,12 +4571,12 @@
 
   { "name": "恋愛=精度×認識力",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "個人差A",
     "version": 30,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 4,
+    "h_value": 6.5
   }, 
 
   { "name": "深淵に捧ぐレクイエム",
@@ -4521,11 +4591,11 @@
 
   { "name": "逆月",
     "difficulty": "A",
-    "normal": "個人差B+",
+    "normal": "個人差B",
     "hard": "地力B+",
     "version": 29,
     "d_value": 2,
-    "n_value": 5.5,
+    "n_value": 4.5,
     "h_value": 6
   }, 
 
@@ -4842,11 +4912,11 @@
   { "name": "ワルツ第17番 ト短調\"大犬のワルツ\"",
     "difficulty": "A",
     "normal": "個人差D",
-    "hard": "個人差C",
+    "hard": "個人差B",
     "version": 17,
     "d_value": 2,
     "n_value": 2.5,
-    "h_value": 3.5
+    "h_value": 4.5
   }, 
 
   { "name": "超青少年ノ為ノ超多幸ナ超古典的超舞曲",
@@ -4867,5 +4937,16 @@
     "d_value": 2,
     "n_value": 3.5,
     "h_value": 3.5 
+  },
+
+  { "name": "ぞうしょく！？マイデンティティ",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   }
+
 ]
