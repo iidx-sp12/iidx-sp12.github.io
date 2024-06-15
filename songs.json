@@ -38,6 +38,16 @@
     "n_value": 7,
     "h_value": 7 
   },
+
+  { "name": "ACTØ",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
     
   { "name": "Adularia",
     "difficulty": "A",
@@ -102,11 +112,11 @@
   { "name": "ALTERNATOR",
     "difficulty": "A",
     "normal": "地力A",
-    "hard": "地力A+",
+    "hard": "地力A",
     "version": 29,
     "d_value": 2,
     "n_value": 7,
-    "h_value": 8 
+    "h_value": 7
   },
 
   { "name": "Always We Trust In You",
@@ -131,12 +141,12 @@
 
   { "name": "Ambivalent Vermilia",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A+",
+    "hard": "地力S",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 8,
+    "h_value": 9 
   },
   
   { "name": "ANCHOR",
@@ -419,6 +429,16 @@
     "h_value": 8.5 
   },
 
+  { "name": "BLAZING_LAZER",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  }, 
+
   { "name": "BLUE DRAGON(雷龍RemixIIDX)",
     "difficulty": "A",
     "normal": "地力B",
@@ -507,6 +527,16 @@
     "d_value": 3,
     "n_value": 5,
     "h_value": 6 
+  },
+
+  { "name": "CADENZA",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 8 
   },
 
   { "name": "Candy Galy",
@@ -799,6 +829,15 @@
     "h_value": 8
   }, 
 
+  { "name": "Demon March",
+    "normal": "",
+    "hard": "",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
+
   { "name": "Despair of ELFERIA",
     "difficulty": "A",
     "normal": "地力A",
@@ -991,11 +1030,11 @@
 
   { "name": "ECHIDNA",
     "difficulty": "A",
-    "normal": "個人差S",
+    "normal": "個人差A+",
     "hard": "個人差S",
     "version": 24,
     "d_value": 2,
-    "n_value": 8.5,
+    "n_value": 7.5,
     "h_value": 8.5
   }, 
 
@@ -1391,12 +1430,12 @@
 
   { "name": "Glitch N Ride",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A+",
+    "hard": "個人差A+",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 8,
+    "h_value": 7.5
   }, 
 
   { "name": "Go Ahead!!",
@@ -1809,6 +1848,16 @@
     "h_value": 5
   },  
 
+  { "name": "KING",
+    "difficulty": "L",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 30,
+    "d_value": 3,
+    "n_value": 2,
+    "h_value": 3
+  },
+
   { "name": "Konzert V",
     "difficulty": "A",
     "normal": "地力C",
@@ -1889,16 +1938,6 @@
     "h_value": 4
   }, 
 
-  { "name": "Level One",
-    "difficulty": "A",
-    "normal": "個人差A",
-    "hard": "個人差S",
-    "version": 26,
-    "d_value": 2,
-    "n_value": 6.5,
-    "h_value": 8.5
-  }, 
-
   { "name": "Level 2",
     "difficulty": "A",
     "normal": "個人差C",
@@ -1926,6 +1965,26 @@
     "version": 30,
     "d_value": 2,
     "n_value": 7.5,
+    "h_value": 8.5
+  }, 
+
+  { "name": "Level 5",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
+  { "name": "Level One",
+    "difficulty": "A",
+    "normal": "個人差A",
+    "hard": "個人差S",
+    "version": 26,
+    "d_value": 2,
+    "n_value": 6.5,
     "h_value": 8.5
   }, 
 
@@ -2101,12 +2160,12 @@
 
   { "name": "MAXIMUM CHEAT GIRL",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B+",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 5,
+    "h_value": 6
   }, 
 
   { "name": "MEGAERA",
@@ -2149,14 +2208,24 @@
     "h_value": 4
   }, 
 
+  { "name": "Million Dollar",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  },
+
   { "name": "Miracle 5ympho X",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差A",
+    "hard": "個人差S",
     "version": 21,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 6.5,
+    "h_value": 8.5
   }, 
 
   { "name": "Monopole.",
@@ -2301,12 +2370,12 @@
 
   { "name": "O/D*20",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B+",
+    "hard": "地力A",
     "version": 25,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 6,
+    "h_value": 7
   },  
 
   { "name": "ONE AND ONLY",
@@ -2391,12 +2460,12 @@
 
   { "name": "Out of Control",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力D",
+    "hard": "地力C",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 3,
+    "h_value": 4
   }, 
 
   { "name": "Override",
@@ -2859,6 +2928,16 @@
     "h_value": 9.5 
   }, 
 
+  { "name": "Saturn",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "version": 20,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 9 
+  },
+
   { "name": "SAY BAY",
     "difficulty": "A",
     "normal": "地力C",
@@ -3139,6 +3218,16 @@
     "h_value": 4 
   }, 
 
+  { "name": "SOLID WYVERN",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
+  }, 
+
   { "name": "Somnidiscotheque",
     "difficulty": "A",
     "normal": "地力S+",
@@ -3219,6 +3308,16 @@
     "h_value": 9 
   },    
 
+  { "name": "Stereo Beasts",
+    "difficulty": "A",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 3,
+    "h_value": 3
+  }, 
+
   { "name": "StrayedCatz",
     "difficulty": "A",
     "normal": "地力B+",
@@ -3232,11 +3331,11 @@
   { "name": "STULTI",
     "difficulty": "A",
     "normal": "個人差B+",
-    "hard": "地力B+",
+    "hard": "地力A",
     "version": 20,
     "d_value": 2,
     "n_value": 5.5,
-    "h_value": 6 
+    "h_value": 7
   }, 
 
   { "name": "Summerlights(IIDX Edition)",
@@ -3288,6 +3387,16 @@
     "n_value": 2,
     "h_value": 2
   },
+
+  { "name": "Sword of Vengeance",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力C",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 4 
+  }, 
 
   { "name": "Symmetry",
     "difficulty": "A",
@@ -3409,6 +3518,16 @@
     "h_value": 8 
   }, 
 
+  { "name": "The Last Apocalypse",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "The Least 100sec",
     "difficulty": "A",
     "normal": "地力D",
@@ -3511,11 +3630,11 @@
 
   { "name": "Tiempo Loco",
     "difficulty": "A",
-    "normal": "地力A",
+    "normal": "地力A+",
     "hard": "地力A",
     "version": 28,
     "d_value": 2,
-    "n_value": 7,
+    "n_value": 8,
     "h_value": 7 
   },  
 
@@ -3652,11 +3771,11 @@
   { "name": "TROOPERS",
     "difficulty": "A",
     "normal": "個人差E",
-    "hard": "個人差E",
+    "hard": "個人差D",
     "version": 15,
     "d_value": 2,
     "n_value": 1.5,
-    "h_value": 1.5 
+    "h_value": 2.5 
   },
 
   { "name": "True Blue",
@@ -3781,12 +3900,12 @@
 
   { "name": "Vermilion Carol",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B+",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 5,
+    "h_value": 6 
   }, 
 
   { "name": "Vinculum stellarum",
@@ -3951,12 +4070,12 @@
 
   { "name": "Xb10r",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B+",
+    "hard": "地力B+",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 6,
+    "h_value": 6 
   }, 
 
   { "name": "Xerulean",
@@ -4249,6 +4368,16 @@
     "h_value": 9
   },
 
+  { "name": "俺ら東京さ行ぐだ",
+    "difficulty": "L",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 27,
+    "d_value": 3,
+    "n_value": 7,
+    "h_value": 7
+  },
+
   { "name": "音楽",
     "difficulty": "A",
     "normal": "個人差A",
@@ -4287,6 +4416,16 @@
     "d_value": 3,
     "n_value": 7,
     "h_value": 6
+  }, 
+
+  { "name": "華蝶風雪",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 13,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "がっつり陰キャ!?怪盗いいんちょの億劫^^;",
@@ -4761,11 +4900,11 @@
 
   { "name": "超青少年ノ為ノ超多幸ナ超古典的超舞曲",
     "difficulty": "L",
-    "normal": "地力A",
+    "normal": "地力A+",
     "hard": "地力A+",
     "version": 22,
     "d_value": 3,
-    "n_value": 7,
+    "n_value": 8,
     "h_value": 8
   }, 
 
@@ -4787,16 +4926,6 @@
     "d_value": 2,
     "n_value": 8.5,
     "h_value": 10
-  }, 
-
-  { "name": "デモーニッシュ",
-    "difficulty": "L",
-    "normal": "地力A+",
-    "hard": "地力A",
-    "version": 29,
-    "d_value": 3,
-    "n_value": 8,
-    "h_value": 7
   }, 
 
   { "name": "天空の夜明け",
@@ -4827,6 +4956,16 @@
     "d_value": 2,
     "n_value": 3,
     "h_value": 3 
+  },
+
+  { "name": "電腦都市",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   },
 
   { "name": "東京神話",
@@ -5041,12 +5180,12 @@
 
   { "name": "表裏一体!?怪盗いいんちょの悩み♥",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力S",
+    "hard": "地力S",
     "version": 22,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 9,
+    "h_value": 9
   },
 
   { "name": "二人ノ廃城幽踊宴",
@@ -5222,11 +5361,11 @@
   { "name": "恋愛＝精度×認識力",
     "difficulty": "A",
     "normal": "地力C",
-    "hard": "個人差A",
+    "hard": "個人差A+",
     "version": 30,
     "d_value": 2,
     "n_value": 4,
-    "h_value": 6.5
+    "h_value": 7.5
   }, 
 
   { "name": "煉獄のエルフェリア",
@@ -5238,6 +5377,16 @@
     "n_value": 8,
     "h_value": 9
   }, 
+
+  { "name": "惑星鉄道",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
 
   { "name": "海神",
     "difficulty": "A",
