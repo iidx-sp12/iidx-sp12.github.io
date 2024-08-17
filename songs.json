@@ -41,12 +41,12 @@
 
   { "name": "ACTØ",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力D",
+    "hard": "地力C",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 3,
+    "h_value": 4 
   },
     
   { "name": "Adularia",
@@ -431,12 +431,12 @@
 
   { "name": "BLAZING_LAZER",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力D",
+    "hard": "地力B",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 3,
+    "h_value": 5 
   }, 
 
   { "name": "BLUE DRAGON(雷龍RemixIIDX)",
@@ -830,12 +830,13 @@
   }, 
 
   { "name": "Demon March",
-    "normal": "",
-    "hard": "",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 7,
+    "h_value": 7
   },
 
   { "name": "Despair of ELFERIA",
@@ -1528,6 +1529,16 @@
     "h_value": 2
   }, 
 
+  { "name": "GUILTY",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 22,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
   { "name": "GuNGNiR",
     "difficulty": "A",
     "normal": "地力A",
@@ -2067,6 +2078,16 @@
     "n_value": 8.5,
     "h_value": 8.5
   }, 
+
+  { "name": "Lost Souls",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 27,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
+  },
 
   { "name": "LOST TECHNOLOGIE",
     "difficulty": "A",
@@ -3028,6 +3049,16 @@
     "h_value": 6 
   }, 
 
+  { "name": "Seven Times Four",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "Shooting Fireball",
     "difficulty": "A",
     "normal": "地力B+",
@@ -3220,12 +3251,12 @@
 
   { "name": "SOLID WYVERN",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A+",
+    "hard": "地力A+",
     "version": 29,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 8,
+    "h_value": 8 
   }, 
 
   { "name": "Somnidiscotheque",
@@ -3557,6 +3588,16 @@
     "n_value": 10,
     "h_value": 10 
   }, 
+
+  { "name": "The Onlyonez",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
 
   { "name": "THE PEERLESS UNDER HEAVEN",
     "difficulty": "A",
@@ -3998,6 +4039,16 @@
     "h_value": 7.5
   }, 
 
+  { "name": "Vulnerability",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
   { "name": "Watch Out Pt.2",
     "difficulty": "A",
     "normal": "個人差B",
@@ -4248,6 +4299,16 @@
     "h_value": 4
   }, 
 
+  { "name": "紫陽花 -AZISAI-",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 23,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
+  },
+
   { "name": "アストライアの双皿",
     "difficulty": "A",
     "normal": "個人差B",
@@ -4420,12 +4481,12 @@
 
   { "name": "華蝶風雪",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力D",
+    "hard": "地力D",
     "version": 13,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 3,
+    "h_value": 3
   }, 
 
   { "name": "がっつり陰キャ!?怪盗いいんちょの億劫^^;",
@@ -4568,6 +4629,16 @@
     "h_value": 6
   }, 
 
+  { "name": "今宵、ロマンス横丁。",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
+
   { "name": "金野火織の金色提言",
     "difficulty": "A",
     "normal": "地力A",
@@ -4607,6 +4678,16 @@
     "n_value": 2.5,
     "h_value": 2.5
   }, 
+
+  { "name": "残像ニ繋ガレタ追憶ノHIDEAWAY",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
 
   { "name": "疾風迅雷",
     "difficulty": "A",
@@ -4960,12 +5041,12 @@
 
   { "name": "電腦都市",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B+",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 5,
+    "h_value": 6 
   },
 
   { "name": "東京神話",
@@ -5278,6 +5359,16 @@
     "h_value": 4.5
   }, 
 
+  { "name": "未完成ノ蒸氣驅動乙女",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
+
   { "name": "禊",
     "difficulty": "A",
     "normal": "地力C",
@@ -5380,8 +5471,8 @@
 
   { "name": "惑星鉄道",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力S+",
+    "hard": "地力S+",
     "version": 31,
     "d_value": 2,
     "n_value": 0,
