@@ -89,6 +89,16 @@
     "h_value": 4 
   },
 
+  { "name": "ALBA -黎明-",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "ALBIDA",
     "difficulty": "A",
     "normal": "地力D",
@@ -489,6 +499,16 @@
     "h_value": 7 
   },
 
+  { "name": "Bring The Fire",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "BroGamer",
     "difficulty": "L",
     "normal": "個人差S",
@@ -739,6 +759,26 @@
     "h_value": 7 
   },  
 
+  { "name": "COSMIC V3LOCITY",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
+  { "name": "Cult Invitation",
+    "difficulty": "A",
+    "normal": "個人差A",
+    "hard": "個人差A+",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 6.5,
+    "h_value": 7.5 
+  }, 
+
   { "name": "Dahlia",
     "difficulty": "A",
     "normal": "地力D",
@@ -829,6 +869,16 @@
     "h_value": 8
   }, 
 
+  { "name": "DEATH†ZIGOQ～怒りの高速爆走野郎～",
+    "difficulty": "L",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "version": 25,
+    "d_value": 3,
+    "n_value": 10,
+    "h_value": 10
+  }, 
+
   { "name": "Demon March",
     "difficulty": "A",
     "normal": "地力A",
@@ -847,6 +897,16 @@
     "d_value": 2,
     "n_value": 7,
     "h_value": 7
+  }, 
+
+  { "name": "destination",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "Devil's Gear",
@@ -899,6 +959,16 @@
     "h_value": 3.5
   },
 
+  { "name": "DIVINE JUDGEMENT",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
+
   { "name": "DOMINION",
     "difficulty": "A",
     "normal": "地力C",
@@ -907,7 +977,7 @@
     "d_value": 2,
     "n_value": 4,
     "h_value": 5
-  }, 
+  },  
 
   { "name": "Don't believe the hype",
     "difficulty": "A",
@@ -958,6 +1028,16 @@
     "n_value": 3,
     "h_value": 3
   }, 
+
+  { "name": "Drop Syndicate",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
 
   { "name": "DropZ-Line-",
     "difficulty": "A",
@@ -1147,6 +1227,16 @@
     "d_value": 2,
     "n_value": 9,
     "h_value": 9
+  }, 
+
+  { "name": "EX-MASSIVE FIGHTER",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "EXUSIA",
@@ -1531,12 +1621,12 @@
 
   { "name": "GUILTY",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B+",
     "version": 22,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 5,
+    "h_value": 6
   }, 
 
   { "name": "GuNGNiR",
@@ -1607,6 +1697,16 @@
     "d_value": 2,
     "n_value": 2,
     "h_value": 2
+  }, 
+
+  { "name": "Here We Go Now",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "Highcharge Divolt",
@@ -1981,12 +2081,12 @@
 
   { "name": "Level 5",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差S",
+    "hard": "個人差S+",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 8.5,
+    "h_value": 9.5
   }, 
 
   { "name": "Level One",
@@ -2028,6 +2128,26 @@
     "n_value": 2,
     "h_value": 2
   }, 
+
+  { "name": "LIGHTNING STRIKES",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 27,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
+  },
+
+  { "name": "Lightspeed",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
 
   { "name": "Little Little Princess",
     "difficulty": "L",
@@ -2081,12 +2201,12 @@
 
   { "name": "Lost Souls",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力S",
+    "hard": "地力S",
     "version": 27,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 9,
+    "h_value": 9
   },
 
   { "name": "LOST TECHNOLOGIE",
@@ -2127,6 +2247,16 @@
     "d_value": 2,
     "n_value": 6,
     "h_value": 7
+  }, 
+
+  { "name": "MAD ATTACK",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "Mare Nectaris",
@@ -2379,6 +2509,16 @@
     "h_value": 4
   },  
 
+  { "name": "NOIXIA",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
+
   { "name": "NZM",
     "difficulty": "A",
     "normal": "地力A+",
@@ -2541,11 +2681,11 @@
 
   { "name": "Pārvatī",
     "difficulty": "A",
-    "normal": "地力E",
+    "normal": "地力D",
     "hard": "地力D",
     "version": 28,
     "d_value": 2,
-    "n_value": 2,
+    "n_value": 3,
     "h_value": 3 
   },
 
@@ -2867,7 +3007,17 @@
     "d_value": 2,
     "n_value": 5,
     "h_value": 5 
-  }, 
+  },
+  
+  { "name": "Resonant",
+    "difficulty": "A",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "version": 31,
+    "d_value": 2,
+    "n_value": 6,
+    "h_value": 7 
+  },
 
   { "name": "reunion",
     "difficulty": "A",
@@ -2909,6 +3059,16 @@
     "h_value": 1 
   },   
 
+  { "name": "Roar of Chronos",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "rommmo",
     "difficulty": "A",
     "normal": "地力C",
@@ -2948,6 +3108,16 @@
     "n_value": 9.5,
     "h_value": 9.5 
   }, 
+
+  { "name": "Satellite Burst",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
 
   { "name": "Saturn",
     "difficulty": "L",
@@ -3017,6 +3187,16 @@
     "d_value": 3,
     "n_value": 6.5,
     "h_value": 7 
+  }, 
+
+  { "name": "Scripted Connection⇒ H mix",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 12,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
   }, 
 
   { "name": "Secrets",
@@ -3117,16 +3297,6 @@
     "d_value": 2,
     "n_value": 2,
     "h_value": 2 
-  }, 
-
-  { "name": "Skreaming for Salvation",
-    "difficulty": "A",
-    "normal": "地力B+",
-    "hard": "個人差B+",
-    "version": 29,
-    "d_value": 2,
-    "n_value": 6,
-    "h_value": 5.5 
   }, 
 
   { "name": "Sky High",
@@ -3551,12 +3721,12 @@
 
   { "name": "The Last Apocalypse",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 5,
+    "h_value": 5 
   },
 
   { "name": "The Least 100sec",
@@ -3839,6 +4009,16 @@
     "h_value": 6 
   },    
 
+  { "name": "u gotta beat",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  }, 
+
   { "name": "Übertreffen",
     "difficulty": "L",
     "normal": "地力B",
@@ -4021,11 +4201,11 @@
 
   { "name": "voltississimo",
     "difficulty": "A",
-    "normal": "地力A",
+    "normal": "地力A+",
     "hard": "地力A+",
     "version": 26,
     "d_value": 2,
-    "n_value": 7,
+    "n_value": 8,
     "h_value": 8 
   }, 
 
@@ -4041,12 +4221,12 @@
 
   { "name": "Vulnerability",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A+",
+    "hard": "地力A+",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 8,
+    "h_value": 8
   }, 
 
   { "name": "Watch Out Pt.2",
@@ -4152,11 +4332,11 @@
   { "name": "Xperanza",
     "difficulty": "A",
     "normal": "地力B",
-    "hard": "地力A",
+    "hard": "地力B+",
     "version": 25,
     "d_value": 2,
     "n_value": 5,
-    "h_value": 7
+    "h_value": 6
   }, 
 
   { "name": "Y&Co. is dead or alive",
@@ -4301,12 +4481,12 @@
 
   { "name": "紫陽花 -AZISAI-",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A",
+    "hard": "個人差A+",
     "version": 23,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 7,
+    "h_value": 7.5
   },
 
   { "name": "アストライアの双皿",
@@ -4468,6 +4648,16 @@
     "n_value": 3,
     "h_value": 2
   },
+
+  { "name": "カジノファイヤーことみちゃん",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 20,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
+  }, 
 
   { "name": "仮想空間の旅人たち",
     "difficulty": "L",
@@ -4631,12 +4821,12 @@
 
   { "name": "今宵、ロマンス横丁。",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B+",
+    "hard": "地力A",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 6,
+    "h_value": 7
   },
 
   { "name": "金野火織の金色提言",
@@ -4681,12 +4871,12 @@
 
   { "name": "残像ニ繋ガレタ追憶ノHIDEAWAY",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力F",
+    "hard": "地力F",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 1,
+    "h_value": 1
   },
 
   { "name": "疾風迅雷",
@@ -4729,6 +4919,16 @@
     "h_value": 4
   }, 
 
+  { "name": "灼熱 Lost Summer Dayz",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
+
   { "name": "灼熱 Pt.2 Long Train Running",
     "difficulty": "A",
     "normal": "個人差S+",
@@ -4757,6 +4957,16 @@
     "d_value": 2,
     "n_value": 5.5,
     "h_value": 6.5
+  }, 
+
+  { "name": "スパークリング☆彡ハイパーチューン！！",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "終焔のClaudia",
@@ -5032,11 +5242,11 @@
   { "name": "電人、暁に斃れる。",
     "difficulty": "A",
     "normal": "地力D",
-    "hard": "地力D",
+    "hard": "地力C",
     "version": 14,
     "d_value": 2,
     "n_value": 3,
-    "h_value": 3 
+    "h_value": 4 
   },
 
   { "name": "電腦都市",
@@ -5231,11 +5441,11 @@
 
   { "name": "焱影",
     "difficulty": "A",
-    "normal": "個人差B+",
+    "normal": "個人差B",
     "hard": "個人差B+",
     "version": 24,
     "d_value": 2,
-    "n_value": 5.5,
+    "n_value": 4.5,
     "h_value": 5.5
   },
 
@@ -5361,12 +5571,12 @@
 
   { "name": "未完成ノ蒸氣驅動乙女",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B+",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 5,
+    "h_value": 6
   },
 
   { "name": "禊",
@@ -5451,11 +5661,11 @@
 
   { "name": "恋愛＝精度×認識力",
     "difficulty": "A",
-    "normal": "地力C",
+    "normal": "地力B",
     "hard": "個人差A+",
     "version": 30,
     "d_value": 2,
-    "n_value": 4,
+    "n_value": 5,
     "h_value": 7.5
   }, 
 
@@ -5487,6 +5697,16 @@
     "d_value": 2,
     "n_value": 3.5,
     "h_value": 3.5 
+  },
+
+  { "name": "海神",
+    "difficulty": "L",
+    "normal": "地力B+",
+    "hard": "個人差A",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 6,
+    "h_value": 6.5 
   },
 
   { "name": "ワルツ第17番 ト短調\"大犬のワルツ\"",
