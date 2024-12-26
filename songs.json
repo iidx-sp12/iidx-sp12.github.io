@@ -9,6 +9,16 @@
     "h_value": 1 
   },
 
+  { "name": "A MINSTREL ～ ver.short-scape ～",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 19,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "AA",
     "difficulty": "A",
     "normal": "地力D",
@@ -91,12 +101,12 @@
 
   { "name": "ALBA -黎明-",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B+",
+    "hard": "個人差A",
     "version": 21,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 6,
+    "h_value": 6.5 
   },
 
   { "name": "ALBIDA",
@@ -768,6 +778,16 @@
     "n_value": 0,
     "h_value": 0 
   },
+
+  { "name": "CUE CUE RESCUE",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
+  }, 
 
   { "name": "Cult Invitation",
     "difficulty": "A",
@@ -2131,12 +2151,12 @@
 
   { "name": "LIGHTNING STRIKES",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A+",
+    "hard": "地力A+",
     "version": 27,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 8,
+    "h_value": 8
   },
 
   { "name": "Lightspeed",
@@ -2251,12 +2271,12 @@
 
   { "name": "MAD ATTACK",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差C",
+    "hard": "個人差B+",
     "version": 21,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 3.5,
+    "h_value": 5.5
   }, 
 
   { "name": "Mare Nectaris",
@@ -3191,12 +3211,12 @@
 
   { "name": "Scripted Connection⇒ H mix",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力D",
+    "hard": "地力D",
     "version": 12,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 3,
+    "h_value": 3
   }, 
 
   { "name": "Secrets",
@@ -4651,12 +4671,12 @@
 
   { "name": "カジノファイヤーことみちゃん",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差A",
+    "hard": "地力S",
     "version": 20,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 6.5,
+    "h_value": 9
   }, 
 
   { "name": "仮想空間の旅人たち",
