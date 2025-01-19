@@ -13,7 +13,7 @@ $(function() {
         {
             let row = "";
             row += "<tr>";
-            if (data[i].d_value == 3)
+            if (data[i].d_value === 3)
             {
                 row += "<td><span style=\"color:magenta\">" + data[i].name + "</span></td>";
             }
