@@ -8,11 +8,12 @@ $(function() {
     $.getJSON("songs.json", function(data)
     {
         let tb = $("#tbl tbody");
-        var len = data.length;
+        let len = data.length;
         for (let i = 0; i < len; i++)
         {
             let row = "";
             row += "<tr>";
+            // 曲名(LEGGENDARIAは赤紫)
             if (data[i].d_value === 3)
             {
                 row += "<td><span style=\"color:magenta\">" + data[i].name + "</span></td>";
@@ -21,11 +22,24 @@ $(function() {
             {
                 row += "<td>" + data[i].name + "</td>";
             }
-            row += "<td class=\"\{sortValue:" + data[i].d_value + "\}\">" + data[i].difficulty + "</td>";
+            // 難易度(色付ける)
+            if (data[i].d_value == 2)
+            {
+                row += "<td class=\"\{sortValue:" + data[i].d_value + "\}\"><span style=\"color:red\">" + data[i].difficulty + "</span></td>";
+            }
+            else if (data[i].d_value == 3)
+            {
+                row += "<td class=\"\{sortValue:" + data[i].d_value + "\}\"><span style=\"color:magenta\">" + data[i].difficulty + "</span></td>";
+            }
+            else
+            {
+                row += "<td class=\"\{sortValue:" + data[i].d_value + "\}\"><span style=\"color:orange\">" + data[i].difficulty + "</span></td>";
+            }
+            // ノマゲ・ハード
             row += "<td class=\"\{sortValue:" + data[i].n_value + "\}\">" + data[i].normal + "</td>";
             row += "<td class=\"\{sortValue:" + data[i].h_value + "\}\">" + data[i].hard + "</td>";
-            row += "<td>" + data[i].version + "</td>";
-            row += "</tr>";
+            // バージョン
+            row += "<td>" + data[i].version + "</td></tr>";
             tb.append(row);
         }
         $("#tbl").trigger("update");

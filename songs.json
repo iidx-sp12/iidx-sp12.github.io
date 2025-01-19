@@ -5745,8 +5745,8 @@
     "hard": "地力S+",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 10,
+    "h_value": 10 
   },
 
   { "name": "海神",
