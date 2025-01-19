@@ -511,12 +511,12 @@
 
   { "name": "Bring The Fire",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力D",
+    "hard": "地力D",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 3,
+    "h_value": 3 
   },
 
   { "name": "BroGamer",
@@ -921,12 +921,12 @@
 
   { "name": "destination",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力C",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 5,
+    "h_value": 4
   }, 
 
   { "name": "Devil's Gear",
@@ -1251,12 +1251,12 @@
 
   { "name": "EX-MASSIVE FIGHTER",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力C",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 4,
+    "h_value": 4
   }, 
 
   { "name": "EXUSIA",
@@ -1721,12 +1721,12 @@
 
   { "name": "Here We Go Now",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力C",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 4,
+    "h_value": 4
   }, 
 
   { "name": "Highcharge Divolt",
@@ -2379,6 +2379,16 @@
     "h_value": 4
   }, 
 
+  { "name": "Mid-Corner (Magic Maker)",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
+
   { "name": "Million Dollar",
     "difficulty": "A",
     "normal": "地力C",
@@ -2447,6 +2457,16 @@
     "d_value": 2,
     "n_value": 3,
     "h_value": 3
+  }, 
+
+  { "name": "Nothing but Theory",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 25,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "NEO GENERATOR SEVEN",
@@ -4941,12 +4961,12 @@
 
   { "name": "灼熱 Lost Summer Dayz",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力E",
+    "hard": "個人差B+",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 2,
+    "h_value": 5.5
   },
 
   { "name": "灼熱 Pt.2 Long Train Running",
@@ -4981,12 +5001,12 @@
 
   { "name": "スパークリング☆彡ハイパーチューン！！",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力F",
+    "hard": "地力F",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 1,
+    "h_value": 1
   }, 
 
   { "name": "終焔のClaudia",
@@ -5258,6 +5278,16 @@
     "n_value": 4,
     "h_value": 4
   }, 
+
+  { "name": "天使のカンタータ -Cantata of Angels-",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
 
   { "name": "電人、暁に斃れる。",
     "difficulty": "A",
@@ -5547,6 +5577,16 @@
     "d_value": 2,
     "n_value": 7,
     "h_value": 6.5
+  },
+
+  { "name": "烽火連天の刃",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 29,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
   },
 
   { "name": "-65℃",
