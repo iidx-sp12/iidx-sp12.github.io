@@ -11,12 +11,12 @@
 
   { "name": "A MINSTREL ～ ver.short-scape ～",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B",
     "version": 19,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 5,
+    "h_value": 5 
   },
 
   { "name": "AA",
@@ -569,6 +569,16 @@
     "h_value": 8 
   },
 
+  { "name": "Caldwell 99",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 30,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "Candy Galy",
     "difficulty": "A",
     "normal": "地力B",
@@ -771,22 +781,22 @@
 
   { "name": "COSMIC V3LOCITY",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力C",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 4,
+    "h_value": 4 
   },
 
   { "name": "CUE CUE RESCUE",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力F",
+    "hard": "地力F",
     "version": 30,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 1,
+    "h_value": 1 
   }, 
 
   { "name": "Cult Invitation",
@@ -981,12 +991,12 @@
 
   { "name": "DIVINE JUDGEMENT",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力C",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 4,
+    "h_value": 4
   },
 
   { "name": "DOMINION",
@@ -1051,12 +1061,12 @@
 
   { "name": "Drop Syndicate",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B+",
+    "hard": "地力B+",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 6,
+    "h_value": 6
   },
 
   { "name": "DropZ-Line-",
@@ -1389,6 +1399,16 @@
     "h_value": 7
   }, 
 
+  { "name": "FlyAway",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
+
   { "name": "Flying Castle",
     "difficulty": "A",
     "normal": "地力B",
@@ -1579,6 +1599,16 @@
     "h_value": 9
   }, 
 
+  { "name": "God Mind",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
+
   { "name": "Godspeed",
     "difficulty": "A",
     "normal": "地力C",
@@ -1749,6 +1779,26 @@
     "h_value": 7
   }, 
 
+  { "name": "hora de verdad",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  }, 
+
+  { "name": "HYENA",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 21,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
+  },   
+
   { "name": "I",
     "difficulty": "A",
     "normal": "地力B",
@@ -1862,11 +1912,11 @@
   { "name": "Innocent Walls",
     "difficulty": "H",
     "normal": "個人差E",
-    "hard": "個人差E",
+    "hard": "個人差D",
     "version": 10,
     "d_value": 1,
     "n_value": 1.5,
-    "h_value": 1.5
+    "h_value": 2.5
   }, 
 
   { "name": "Innocent Walls",
@@ -2161,12 +2211,12 @@
 
   { "name": "Lightspeed",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B+",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 5,
+    "h_value": 6
   },
 
   { "name": "Little Little Princess",
@@ -2381,12 +2431,12 @@
 
   { "name": "Mid-Corner (Magic Maker)",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力B",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 4,
+    "h_value": 5
   },
 
   { "name": "Million Dollar",
@@ -2461,12 +2511,12 @@
 
   { "name": "Nothing but Theory",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力D",
+    "hard": "地力D",
     "version": 25,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 3,
+    "h_value": 3
   }, 
 
   { "name": "NEO GENERATOR SEVEN",
@@ -2551,22 +2601,22 @@
 
   { "name": "NOIXIA",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A",
+    "hard": "地力A+",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 7,
+    "h_value": 8
   },
 
   { "name": "NZM",
     "difficulty": "A",
     "normal": "地力A+",
-    "hard": "個人差S",
+    "hard": "個人差A+",
     "version": 23,
     "d_value": 2,
     "n_value": 8,
-    "h_value": 8.5
+    "h_value": 7.5
   },  
 
   { "name": "O/D*20",
@@ -3101,12 +3151,12 @@
 
   { "name": "Roar of Chronos",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力C",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 4,
+    "h_value": 4 
   },
 
   { "name": "rommmo",
@@ -3151,12 +3201,12 @@
 
   { "name": "Satellite Burst",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A+",
+    "hard": "地力A+",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 8,
+    "h_value": 8 
   },
 
   { "name": "Saturn",
@@ -3271,12 +3321,12 @@
 
   { "name": "Seven Times Four",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力C",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 4,
+    "h_value": 4 
   },
 
   { "name": "Shooting Fireball",
@@ -3579,6 +3629,16 @@
     "h_value": 7
   }, 
 
+  { "name": "SμG@R RU$#",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
+  },
+
   { "name": "Summerlights(IIDX Edition)",
     "difficulty": "A",
     "normal": "地力E",
@@ -3801,12 +3861,12 @@
 
   { "name": "The Onlyonez",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力E",
+    "hard": "個人差E",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 2,
+    "h_value": 1.5 
   },
 
   { "name": "THE PEERLESS UNDER HEAVEN",
@@ -4051,12 +4111,12 @@
 
   { "name": "u gotta beat",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 5,
+    "h_value": 5 
   }, 
 
   { "name": "Übertreffen",
@@ -4309,6 +4369,16 @@
     "h_value": 6 
   }, 
 
+  { "name": "Without Heaven",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },
+
   { "name": "WHA",
     "difficulty": "A",
     "normal": "個人差S",
@@ -4447,6 +4517,16 @@
     "d_value": 2,
     "n_value": 3.5,
     "h_value": 3
+  }, 
+
+  { "name": "1116",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "199024club -Re:BounceKiller-",
@@ -4678,6 +4758,16 @@
     "n_value": 9,
     "h_value": 10
   },
+
+  { "name": "蛇神",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 19,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
+  }, 
 
   { "name": "カゴノトリ～弐式～",
     "difficulty": "A",
@@ -5077,6 +5167,16 @@
     "d_value": 2,
     "n_value": 7.5,
     "h_value": 7.5
+  }, 
+
+  { "name": "新宝島",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 28,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "水鏡の異界",
@@ -5529,6 +5629,16 @@
     "h_value": 9
   },
 
+  { "name": "フォニイ",
+    "difficulty": "L",
+    "normal": "地力E",
+    "hard": "地力D",
+    "version": 31,
+    "d_value": 3,
+    "n_value": 2,
+    "h_value": 3
+  },
+
   { "name": "二人ノ廃城幽踊宴",
     "difficulty": "A",
     "normal": "地力A",
@@ -5581,12 +5691,12 @@
 
   { "name": "烽火連天の刃",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差S",
+    "hard": "地力S+",
     "version": 29,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 8.5,
+    "h_value": 10
   },
 
   { "name": "-65℃",
@@ -5745,8 +5855,8 @@
     "hard": "地力S+",
     "version": 31,
     "d_value": 2,
-    "n_value": 10,
-    "h_value": 10 
+    "n_value": 0,
+    "h_value": 0 
   },
 
   { "name": "海神",
