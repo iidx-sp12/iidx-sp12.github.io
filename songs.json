@@ -62,11 +62,11 @@
   { "name": "Adularia",
     "difficulty": "A",
     "normal": "個人差C",
-    "hard": "個人差C",
+    "hard": "個人差D",
     "version": 21,
     "d_value": 2,
     "n_value": 3.5,
-    "h_value": 3.5 
+    "h_value": 2.5 
   },
 
   { "name": "Aftermath",
@@ -257,6 +257,16 @@
     "d_value": 2,
     "n_value": 2,
     "h_value": 2 
+  },
+
+  { "name": "Aqvion",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   },
 
   { "name": "Arabian Rave Night",
@@ -509,6 +519,16 @@
     "h_value": 7 
   },
 
+  { "name": "Bow shock!!",
+    "difficulty": "L",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "version": 27,
+    "d_value": 3,
+    "n_value": 8,
+    "h_value": 8 
+  },
+
   { "name": "Bring The Fire",
     "difficulty": "A",
     "normal": "地力D",
@@ -571,12 +591,12 @@
 
   { "name": "Caldwell 99",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差B",
+    "hard": "地力A",
     "version": 30,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 4.5,
+    "h_value": 7 
   },
 
   { "name": "Candy Galy",
@@ -588,6 +608,16 @@
     "n_value": 5,
     "h_value": 4 
   },  
+
+  { "name": "CaptivAte～浄化～",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 12,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
+  },
 
   { "name": "Carmina",
     "difficulty": "A",
@@ -638,6 +668,16 @@
     "n_value": 4,
     "h_value": 5 
   }, 
+
+  { "name": "ChaserXX",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 25,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0 
+  },
 
   { "name": "CHRONO DIVER -NORNIR-",
     "difficulty": "L",
@@ -789,6 +829,16 @@
     "h_value": 4 
   },
 
+  { "name": "Cross Fire",
+    "difficulty": "A",
+    "normal": "地力A",
+    "hard": "地力A",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 7,
+    "h_value": 7 
+  }, 
+
   { "name": "CUE CUE RESCUE",
     "difficulty": "L",
     "normal": "地力F",
@@ -821,11 +871,11 @@
 
   { "name": "Dances with Snow Fairies",
     "difficulty": "A",
-    "normal": "地力B",
+    "normal": "地力B+",
     "hard": "地力B",
     "version": 18,
     "d_value": 2,
-    "n_value": 5,
+    "n_value": 6,
     "h_value": 5 
   },  
 
@@ -1212,11 +1262,11 @@
   { "name": "eRAseRmOToRpHAntOM",
     "difficulty": "A",
     "normal": "個人差D",
-    "hard": "個人差D",
+    "hard": "個人差C",
     "version": 17,
     "d_value": 2,
     "n_value": 2.5,
-    "h_value": 2.5
+    "h_value": 3.5
   }, 
 
   { "name": "EROICA",
@@ -1277,6 +1327,16 @@
     "d_value": 2,
     "n_value": 7,
     "h_value": 6
+  }, 
+
+  { "name": "EYE OF THE HEAVEN",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "F",
@@ -1387,6 +1447,16 @@
     "d_value": 2,
     "n_value": 3,
     "h_value": 3
+  },
+  
+  { "name": "Flämingo",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "Flashes",
@@ -1401,12 +1471,12 @@
 
   { "name": "FlyAway",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力C",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 4,
+    "h_value": 4
   },
 
   { "name": "Flying Castle",
@@ -1497,6 +1567,16 @@
     "d_value": 3,
     "n_value": 7,
     "h_value": 8
+  }, 
+
+  { "name": "garden",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 12,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "GENE",
@@ -1601,12 +1681,12 @@
 
   { "name": "God Mind",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A+",
+    "hard": "地力A+",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 8,
+    "h_value": 8
   },
 
   { "name": "Godspeed",
@@ -1781,22 +1861,22 @@
 
   { "name": "hora de verdad",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差C",
+    "hard": "地力B",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 3.5,
+    "h_value": 5
   }, 
 
   { "name": "HYENA",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力A+",
+    "hard": "地力A+",
     "version": 21,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 8,
+    "h_value": 8
   },   
 
   { "name": "I",
@@ -1812,11 +1892,11 @@
   { "name": "ICARUS",
     "difficulty": "A",
     "normal": "個人差E",
-    "hard": "個人差D",
+    "hard": "個人差C",
     "version": 15,
     "d_value": 2,
     "n_value": 1.5,
-    "h_value": 2.5
+    "h_value": 3.5
   }, 
 
   { "name": "ICARUS",
@@ -1878,6 +1958,16 @@
     "n_value": 4.5,
     "h_value": 4.5
   }, 
+
+  { "name": "INAZUMA",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 12,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
+  },  
 
   { "name": "Inferno of Fomalhaut",
     "difficulty": "A",
@@ -2349,6 +2439,16 @@
     "h_value": 5.5
   }, 
 
+  { "name": "MARLIN",
+    "difficulty": "A",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 4,
+    "h_value": 5
+  }, 
+
   { "name": "Matt Silver",
     "difficulty": "A",
     "normal": "地力D",
@@ -2817,6 +2917,16 @@
     "d_value": 3,
     "n_value": 9,
     "h_value": 9 
+  },
+
+  { "name": "Pinky Happy Crazy",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
   },
 
   { "name": "Plan 8",
@@ -3389,6 +3499,26 @@
     "h_value": 2 
   }, 
 
+  { "name": "SISYPHUS",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  }, 
+
+  { "name": "Skratch Education Lv-1",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  }, 
+
   { "name": "Sky High",
     "difficulty": "A",
     "normal": "地力B",
@@ -3631,12 +3761,12 @@
 
   { "name": "SμG@R RU$#",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力S+",
+    "hard": "地力S+",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 10,
+    "h_value": 10
   },
 
   { "name": "Summerlights(IIDX Edition)",
@@ -3742,11 +3872,11 @@
   { "name": "TECHNOPHOBIA",
     "difficulty": "A",
     "normal": "個人差A",
-    "hard": "地力A+",
+    "hard": "個人差A+",
     "version": 30,
     "d_value": 2,
     "n_value": 6.5,
-    "h_value": 8 
+    "h_value": 7.5
   }, 
 
   { "name": "THANK YOU FOR PLAYING",
@@ -4002,11 +4132,11 @@
   { "name": "TOGAKUSHI",
     "difficulty": "A",
     "normal": "個人差C",
-    "hard": "個人差B",
+    "hard": "個人差C",
     "version": 24,
     "d_value": 2,
     "n_value": 3.5,
-    "h_value": 4.5
+    "h_value": 3.5
   },  
 
   { "name": "TOMAHAWK",
@@ -4119,6 +4249,16 @@
     "h_value": 5 
   }, 
 
+  { "name": "Uaigh Gealaí",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  }, 
+
   { "name": "Übertreffen",
     "difficulty": "L",
     "normal": "地力B",
@@ -4147,7 +4287,17 @@
     "d_value": 2,
     "n_value": 6,
     "h_value": 8 
-  },      
+  },   
+  
+  { "name": "uәn",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  },  
 
   { "name": "V",
     "difficulty": "A",
@@ -4371,12 +4521,12 @@
 
   { "name": "Without Heaven",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B+",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 5,
+    "h_value": 6 
   },
 
   { "name": "WHA",
@@ -4429,6 +4579,16 @@
     "h_value": 9 
   }, 
 
+  { "name": "XHRONOXAPSULΞ",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0 
+  }, 
+
   { "name": "Xlø",
     "difficulty": "A",
     "normal": "地力B",
@@ -4471,11 +4631,11 @@
 
   { "name": "yellow head joe",
     "difficulty": "L",
-    "normal": "地力C",
+    "normal": "地力B",
     "hard": "地力B",
     "version": 19,
     "d_value": 3,
-    "n_value": 4,
+    "n_value": 5,
     "h_value": 5
   }, 
 
@@ -4521,12 +4681,12 @@
 
   { "name": "1116",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B+",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 5,
+    "h_value": 6
   }, 
 
   { "name": "199024club -Re:BounceKiller-",
@@ -4602,11 +4762,11 @@
   { "name": "紫陽花 -AZISAI-",
     "difficulty": "L",
     "normal": "地力A",
-    "hard": "個人差A+",
+    "hard": "個人差S",
     "version": 23,
     "d_value": 3,
     "n_value": 7,
-    "h_value": 7.5
+    "h_value": 8.5
   },
 
   { "name": "アストライアの双皿",
@@ -4627,6 +4787,16 @@
     "d_value": 2,
     "n_value": 3,
     "h_value": 4
+  }, 
+
+  { "name": "アラビアン ハイパー ナイト",
+    "difficulty": "A",
+    "normal": "",
+    "hard": "",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "イザナミノナゲキ",
@@ -4761,12 +4931,12 @@
 
   { "name": "蛇神",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差A+",
+    "hard": "地力S",
     "version": 19,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 7.5,
+    "h_value": 9
   }, 
 
   { "name": "カゴノトリ～弐式～",
@@ -4817,6 +4987,16 @@
     "d_value": 2,
     "n_value": 8,
     "h_value": 8 
+  },
+
+  { "name": "神っぽいな",
+    "difficulty": "L",
+    "normal": "地力C",
+    "hard": "地力B",
+    "version": 30,
+    "d_value": 3,
+    "n_value": 4,
+    "h_value": 5 
   },
 
   { "name": "神のシナリオ",
@@ -4897,6 +5077,16 @@
     "d_value": 2,
     "n_value": 7,
     "h_value": 7 
+  },
+
+    { "name": "グッバイ宣言",
+    "difficulty": "L",
+    "normal": "地力D",
+    "hard": "地力D",
+    "version": 29,
+    "d_value": 3,
+    "n_value": 3,
+    "h_value": 3
   },
 
   { "name": "狂イ咲ケ焔ノ華",
@@ -4999,6 +5189,16 @@
     "h_value": 2.5
   }, 
 
+  { "name": "#The_Relentless",
+    "difficulty": "L",
+    "normal": "地力S",
+    "hard": "地力S",
+    "version": 22,
+    "d_value": 3,
+    "n_value": 9,
+    "h_value": 9
+  },
+
   { "name": "残像ニ繋ガレタ追憶ノHIDEAWAY",
     "difficulty": "A",
     "normal": "地力F",
@@ -5089,23 +5289,13 @@
     "h_value": 6.5
   }, 
 
-  { "name": "スパークリング☆彡ハイパーチューン！！",
-    "difficulty": "A",
-    "normal": "地力F",
-    "hard": "地力F",
-    "version": 32,
-    "d_value": 2,
-    "n_value": 1,
-    "h_value": 1
-  }, 
-
   { "name": "終焔のClaudia",
     "difficulty": "A",
-    "normal": "地力E",
+    "normal": "地力D",
     "hard": "地力D",
     "version": 31,
     "d_value": 2,
-    "n_value": 2,
+    "n_value": 3,
     "h_value": 3
   }, 
 
@@ -5171,12 +5361,12 @@
 
   { "name": "新宝島",
     "difficulty": "L",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力C",
     "version": 28,
     "d_value": 3,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 4,
+    "h_value": 4
   }, 
 
   { "name": "水鏡の異界",
@@ -5199,6 +5389,26 @@
     "h_value": 4
   }, 
 
+  { "name": "スキッテイエェエエェ!!!!",
+    "difficulty": "A",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 8,
+    "h_value": 9
+  }, 
+
+  { "name": "スパークリング☆彡ハイパーチューン！！",
+    "difficulty": "A",
+    "normal": "地力F",
+    "hard": "地力F",
+    "version": 32,
+    "d_value": 2,
+    "n_value": 1,
+    "h_value": 1
+  }, 
+
   { "name": "聖人の塔",
     "difficulty": "A",
     "normal": "地力D",
@@ -5207,6 +5417,16 @@
     "d_value": 2,
     "n_value": 3,
     "h_value": 5
+  }, 
+
+  { "name": "聖人の塔",
+    "difficulty": "L",
+    "normal": "",
+    "hard": "",
+    "version": 19,
+    "d_value": 3,
+    "n_value": 0,
+    "h_value": 0
   }, 
 
   { "name": "世界の果てに約束の凱歌を -ReUnion-",
@@ -5381,12 +5601,12 @@
 
   { "name": "天使のカンタータ -Cantata of Angels-",
     "difficulty": "A",
-    "normal": "",
-    "hard": "",
+    "normal": "地力S",
+    "hard": "地力S",
     "version": 32,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0
+    "n_value": 9,
+    "h_value": 9
   },
 
   { "name": "電人、暁に斃れる。",
@@ -5855,8 +6075,8 @@
     "hard": "地力S+",
     "version": 31,
     "d_value": 2,
-    "n_value": 0,
-    "h_value": 0 
+    "n_value": 10,
+    "h_value": 10 
   },
 
   { "name": "海神",
